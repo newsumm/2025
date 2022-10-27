@@ -1,1 +1,2 @@
-NewSum summarization workshop 2021
+NewSum summarization workshop 2023
+

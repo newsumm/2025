@@ -14,7 +14,7 @@ layout: home
 <h3 class="blackpar_title">The 4th NewSum Workshop </h3>
 </center>
 <p>
-The Third Workshop on “New Frontiers in Summarization workshop” aims to provide a research forum for cross-fertilization of ideas in automatic summarization and related areas. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
+The 4th Workshop on “New Frontiers in Summarization workshop” aims to provide a research forum for cross-fertilization of ideas in automatic summarization and related areas. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
 </p>
 <!--	
 The workshop will take place on <span class="blackhighlighted">DATE, 2023</span>. 
@@ -58,20 +58,20 @@ A list of topics relevant to this workshop (but not limited to):
 <h2 class="blackpar_title">Submission Instructions</h2>
 
 
-You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2021/Summarization/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2021.emnlp.org/call-for-papers/style-and-formatting'>EMNLP 2021 style templates</a>. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
+You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/Summarization/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.emnlp.org/call-for-papers/style-and-formatting'>EMNLP 2023 style templates</a>. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
 
   
-NewSum 2021 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2021 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
+NewSum 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
 
 <br><br>
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
-- Anonymity period begins: July 28, 2021
-- Submission Deadline: September 3, 2021 (extended from August 28, 2021)
-- Acceptance Notification: September 28, 2021 (postponed from September 27, 2021)
-- Camera-Ready Submission: September 30, 2021
-- Workshop Date: November 10, 2021
+- Anonymity period begins: July 28, 2023
+- Submission Deadline: September 3, 2023 (extended from August 28, 2023)
+- Acceptance Notification: September 28, 2023 (postponed from September 27, 2023)
+- Camera-Ready Submission: September 30, 2023
+- Workshop Date: November 10, 2023
 
 
 
@@ -79,6 +79,36 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
+
+<div class="card column" >
+	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://www.cs.mcgill.ca/~ydong26/"><b>Yue Dong</b></a>
+			<br>
+			McGill University & MILA, Canada
+		</h4>
+		</center>
+	  </div>
+	</div>
+</div>
+
+<div class="card column" >
+	  <img src="/images/Wen_Xiao.jpg" alt="Wen Xiao" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://wendy-xiao.github.io/"><b>Wen Xiao</b></a>
+			<br>
+			University of British Columbia, Canada
+		</h4>
+		</center>
+	  </div>
+	</div>
+</div>
+
+
     <div class="card column" style="margin-left:0;">
 	  <img src="/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
 	  <div class="container">
@@ -105,19 +135,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
   
-<div class="card column" >
-	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://www.cs.mcgill.ca/~ydong26/"><b>Yue Dong</b></a>
-			<br>
-			McGill University & MILA, Canada
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
+
 
 <div class="row">
 <div class="card column">
@@ -162,7 +180,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 			<br>
 			Google
       <br>
-      <a href="NewSum 2021_Invited Talk-Shared.pdf" target="_blank">
+      <a href="NewSum 2023_Invited Talk-Shared.pdf" target="_blank">
 	    <b>[Talk Slides]</b></a> 
       </h4>
 		</center>
@@ -201,7 +219,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 <br> <br>
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
-<a href="https://summarization-workshop.github.io/schedule/"><b>NewSum 2021 schedule (9am - 6pm AST)</b></a>
+<a href="https://summarization-workshop.github.io/schedule/"><b>NewSum 2023 schedule (9am - 6pm AST)</b></a>
 
 
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>

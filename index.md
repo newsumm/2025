@@ -92,7 +92,6 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
- </div>
 
  <div class="card column" >
 	  <img src="/images/Wen_Xiao.jpg" alt="Wen Xiao" class="img_card">
@@ -106,9 +105,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
- </div>
-
-<div class="row">
+ 
     <div class="card column" style="margin-left:0;">
 	  <img src="/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
 	  <div class="container">
@@ -121,7 +118,8 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
-  
+  </div>
+
   <div class="card column" >
   <img src="/images/fei_liu.jpg" alt="Fei Liu" class="img_card">
 	  <div class="container">

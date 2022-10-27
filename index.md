@@ -11,13 +11,13 @@ layout: home
 <!-- <img src="/images/deep.jpg"> -->
 <center>
 <h2 class="blackpar_title"> New Frontiers in Summarization Workshop </h2>
-<h3 class="blackpar_title">The Third NewSum Workshop </h3>
+<h3 class="blackpar_title">The 4th NewSum Workshop </h3>
 </center>
 <p>
 The Third Workshop on “New Frontiers in Summarization workshop” aims to provide a research forum for cross-fertilization of ideas in automatic summarization and related areas. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
 </p>
 <!--	
-The workshop will take place on <span class="blackhighlighted">DATE, 2021</span>. 
+The workshop will take place on <span class="blackhighlighted">DATE, 2023</span>. 
 Due to the pandemic, the workshop will be <span class="blackhighlighted">VIRTUAL</span>. More details will be provided soon. 
 
 Note that to attend the event, a registration on the ICLR website is required. All workshop events (except Poster session and open discussion) can be followed using the ICLR link or use the zoom link by clicking on “join zoom” on the ICLR link. For the Poster session participants should une the Gather.town link. Note that papers id can be found on Accepter papers section.
@@ -34,19 +34,6 @@ The goal for this workshop is to provide a research forum for cross-fertilizatio
 
 <br><br>
 
-<!-- Workshop Statistics -->
-<h2 class="blackpar_title" id="Workshop Statistics">Workshop Statistics</h2>
-
-**Registrations:**  NewSum has **319** registered attendees at EMNLP 2021 with the following distribution: 
-
-- Virtual Student: 149
-- Virtual Regular: 143
-- In-Person Student: 14
-- In-Person Regular: 13
-
-**Submissions:**  The workshop received 18 long paper submissions, of which 9 were accepted, and 14 short paper submissions, of which 7 were accepted.
-This resulted in an overall acceptance rate of 50%. In addition, we accepted 8 Findings of ACL papers.  
-<br><br>
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>

@@ -94,7 +94,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	</div>
 
  <div class="card column" >
-	  <img src="/images/wen_xiao.jpg" alt="Wen Xiao" class="img_card">
+	  <img src="/2023newsum/images/wen_xiao.jpg" alt="Wen Xiao" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>

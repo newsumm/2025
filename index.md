@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<!-- <img src="/images/deep.jpg"> -->
+<!-- <img src="/2023newsum/images/deep.jpg"> -->
 <center>
 <h2 class="blackpar_title"> New Frontiers in Summarization Workshop </h2>
 <h3 class="blackpar_title">The 4th NewSum Workshop </h3>
@@ -81,7 +81,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <div class="row">
 
  <div class="card column" >
-	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
+	  <img src="/2023newsum/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -107,7 +107,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	</div>
  
     <div class="card column" style="margin-left:0;">
-	  <img src="/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
+	  <img src="/2023newsum/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -122,7 +122,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 <div class="row">
   <div class="card column" >
-  <img src="/images/fei_liu.jpg" alt="Fei Liu" class="img_card">
+  <img src="/2023newsum/images/fei_liu.jpg" alt="Fei Liu" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -136,7 +136,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
   
 
 <div class="card column">
-	  <img src="/images/giuseppe_carenini.JPG" alt="Giuseppe Carenini" class="img_card">
+	  <img src="/2023newsum/images/giuseppe_carenini.JPG" alt="Giuseppe Carenini" class="img_card">
 	  <div class="container" >
 		<center>
 		<h4>
@@ -149,7 +149,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	</div>
   
 <div class="card column">
-	  <img src="/images/jackie_cheung.JPG" alt="Jackie Chi Kit Cheung" class="img_card">
+	  <img src="/2023newsum/images/jackie_cheung.JPG" alt="Jackie Chi Kit Cheung" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -169,7 +169,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
-	  <img src="/images/shashi.jpeg" alt="Shashi Narayan" class="img_card">
+	  <img src="/2023newsum/images/shashi.jpeg" alt="Shashi Narayan" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -184,7 +184,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/asli.jpeg" alt="Asli Celikyilmaz" class="img_card">
+	  <img src="/2023newsum/images/asli.jpeg" alt="Asli Celikyilmaz" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>

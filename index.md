@@ -122,7 +122,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 <div class="row">
   <div class="card column" >
-  <img src="/2023newsum/images/fei_liu.jpg" alt="Fei Liu" class="img_card">
+  <img src="/2023newsum/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -148,7 +148,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
   
-<div class="card column">
+<!-- <div class="card column">
 	  <img src="/2023newsum/images/jackie_cheung.JPG" alt="Jackie Chi Kit Cheung" class="img_card">
 	  <div class="container">
 		<center>
@@ -160,7 +160,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 		</center>
 	  </div>
 	</div>
-</div>
+</div> -->
 
 <br><br>
   

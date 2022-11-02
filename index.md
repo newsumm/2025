@@ -17,7 +17,6 @@ layout: home
 The Fourth Workshop on "New Frontiers in Summarization" aims to promote the cross-fertilization of ideas in automatic summarization and related fields. This includes discussion on novel paradigms, shared tasks of interest, applied research and applications, and possible future research directions. In addition to building a cohesive research community, the workshop will accelerate knowledge diffusion by developing new tools, datasets, and resources that are in line with the summarization needs of academia, industry, and government. 
 	
 	
-<br>
 New advances in natural language processing (e.g., pre-trained models and prompt-based learning) have resulted in state-of-the-art performance according to existing standards of summarization evaluation. A number of new challenges have emerged, and moving forward with large-scale models we don't fully understand calls for caution. Challenges are posed from multiple directions, including but not limited to the trustworthiness of the generation, the interpretability and controllability of the models, the reliability of evaluation, and the integration of additional sources like knowledge and other modality. Considering these challenges will be crucial for realistic, ecologically valid deployment of summarization research.
 </p>
 <br>

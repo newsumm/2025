@@ -63,7 +63,7 @@ TBD
 		<h4>
       <a href="https://www.cs.mcgill.ca/~ydong26/"><b>Yue Dong</b></a>
 			<br>
-			McGill University & MILA, Canada
+			University of California, Riverside, USA
 		</h4>
 		</center>
 	  </div>
@@ -89,7 +89,7 @@ TBD
 		<h4>
 			<a href="https://web.eecs.umich.edu/~wangluxy/"><b>Wang Lu</b></a>
 			<br>
-			Northeastern University, USA
+			University of Michigan, USA
 		</h4>
 		</center>
 	  </div>
@@ -104,7 +104,7 @@ TBD
 		<h4>
 			<a href="http://www.cs.ucf.edu/~feiliu/"><b>Fei Liu</b></a>
 			<br>
-			University of Central Florida, USA
+			Emory University, USA
 		</h4>
 		</center>
 	  </div>

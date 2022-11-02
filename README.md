@@ -1,2 +1,2 @@
-NewSum summarization workshop 2023
+NewSumm summarization workshop 2023
 

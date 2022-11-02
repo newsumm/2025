@@ -143,9 +143,8 @@ TBD
   
   
 <!-- Confirmed Spearkers -->
-TBA
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
-
+TBA
 
 
 

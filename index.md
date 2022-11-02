@@ -28,16 +28,19 @@ Both long paper (up to 8 pages with unlimited reference) and short paper (up to 
 A list of topics relevant to this workshop (but not limited to):
 
 - Abstractive and extractive summarization
-- Language generation
-- Multiple text genres (News, tweets, product reviews, meeting conversations, forums, lectures, student feedback, emails, medical records, books, research articles, etc)
-- Multimodal Input: Information integration and aggregation across multiple modalities (text, speech, image, video)
-- Multimodal Output: Summarization and visualization + interactive exploration
-- Tailoring summaries to user queries or interests
-- Semantic aspects of summarization (e.g. semantic representation, inference, validity)
-- Development of new algorithms
+- Fairness in summarization: faithfulness, bias, toxicity, and privacy-preserving 
+- Interpretability and visualization of summarization systems
+- Controlled and tailored text generation
+- Knowledge/common sense injected summarization
+- Multiple text genres (News, tweets, product reviews, conversations, medical records, books, research articles, etc.)
+- Multimodal learning: information integration and aggregation across multiple modalities (text, speech, image, video)
+- Multilingual summarization
+- Semantic aspects of summarization (e.g., semantic representation, inference, validity)
+- Cognitive or psycholinguistic aspects of summarization (e.g., perceived readability, usability, etc.)
+- Development of novel algorithms (e.g., integrating neural and non-neural, distant supervision)
 - Development of new datasets and annotations
 - Development of new evaluation metrics
-- Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)
+
 
 
 <h2 class="blackpar_title" id="Submission">Submission Instructions</h2>

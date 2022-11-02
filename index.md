@@ -18,6 +18,8 @@ The Fourth Workshop on "New Frontiers in Summarization" aims to promote the cros
 New advances in natural language processing (e.g., pre-trained models and prompt-based learning) have resulted in state-of-the-art performance according to existing standards of summarization evaluation. A number of new challenges have emerged, and moving forward with large-scale models we don't fully understand calls for caution. Challenges are posed from multiple directions, including but not limited to the trustworthiness of the generation, the interpretability and controllability of the models, the reliability of evaluation, and the integration of additional sources like knowledge and other modality. Considering these challenges will be crucial for realistic, ecologically valid deployment of summarization research.
 
 
+
+
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
 
@@ -46,15 +48,8 @@ NewSum 2023 will allow double submission as long as the authors make a decision 
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
 TBD
-<!--
-All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
-- Anonymity period begins: July 28, 2023
-- Submission Deadline: September 3, 2023 (extended from August 28, 2023)
-- Acceptance Notification: September 28, 2023 (postponed from September 27, 2023)
-- Camera-Ready Submission: September 30, 2023
-- Workshop Date: November 10, 2023
--->
+
 
 
 <!-- Organizers -->
@@ -143,67 +138,29 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	</div> -->
 </div>
 
-<br>
+  
+  
   
   
 <!-- Confirmed Spearkers -->
 TBA
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
-<!--
-<div class="row">
-	<div class="card column">
-	  <img src="/2023newsum/images/shashi.jpeg" alt="Shashi Narayan" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-			<a href="https://sites.google.com/view/shashinarayan/"><b>Shashi Narayan</b></a> 
-			<br>
-			Google
-      <br>
-      <a href="NewSum 2023_Invited Talk-Shared.pdf" target="_blank">
-	    <b>[Talk Slides]</b></a> 
-      </h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/2023newsum/images/asli.jpeg" alt="Asli Celikyilmaz" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="http://asli.us/"><b>Asli Celikyilmaz</b></a>
-			<br>
-			Facebook AI Research
-		</h4>
-		</center>
-	  </div>
-	</div>
-	<div class="card column">
-	  <img src="/images/sebastian_gehrmann.jpeg" alt="Sebastian Gehrmann" class="img_card">
-	  <div class="container">
-		<center>
-		<h4>
-      <a href="https://sebastiangehrmann.com/"><b>Sebastian Gehrmann</b></a>
-			<br>
-			Google
-      <br>
-      <a href="NewSum'21_ Breaking News_ It’s time to fix the evaluation of generated text.pdf" target="_blank">
-	    <b>[Talk Slides]</b></a> 
-		</h4>
-		</center>
-	  </div>
-	</div>
-</div>
-<br><br> -->
 
-<br>
+
+
+
+<!-- Schedule -->
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
 TBA
 <!-- 
 <a href="https://summarization-workshop.github.io/schedule/"><b>NewSum 2023 schedule (9am - 6pm AST)</b></a>
 -->
 
-<h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
+
+
+
+<!-- PC -->
+<h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
 <ul>
   <li>Enamul Hoque (York University)</li>
   <li>Jiacheng Xu (The University of Texas at Austin)</li>

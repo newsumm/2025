@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<!-- <img src="/2023newsum/images/deep.jpg"> -->
+<!-- <img src="/2023/images/deep.jpg"> -->
 <center>
 <h2 class="blackpar_title"> New Frontiers in Summarization Workshop </h2>
 <h3 class="blackpar_title">The 4th NewSum Workshop </h3>
@@ -57,7 +57,7 @@ TBD
 <div class="row">
 
  <div class="card column" >
-	  <img src="/2023newsum/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
+	  <img src="/2023/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -70,7 +70,7 @@ TBD
 	</div>
 
  <div class="card column" >
-	  <img src="/2023newsum/images/wen_xiao.jpg" alt="Wen Xiao" class="img_card">
+	  <img src="/2023/images/wen_xiao.jpg" alt="Wen Xiao" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -83,7 +83,7 @@ TBD
 	</div>
  
     <div class="card column" style="margin-left:0;">
-	  <img src="/2023newsum/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
+	  <img src="/2023/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -98,7 +98,7 @@ TBD
 
 <div class="row">
   <div class="card column" >
-  <img src="/2023newsum/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
+  <img src="/2023/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -112,7 +112,7 @@ TBD
   
 
 <div class="card column">
-	  <img src="/2023newsum/images/giuseppe_carenini.JPG" alt="Giuseppe Carenini" class="img_card">
+	  <img src="/2023/images/giuseppe_carenini.JPG" alt="Giuseppe Carenini" class="img_card">
 	  <div class="container" >
 		<center>
 		<h4>
@@ -125,7 +125,7 @@ TBD
 	</div>
   
 <!-- <div class="card column">
-	  <img src="/2023newsum/images/jackie_cheung.JPG" alt="Jackie Chi Kit Cheung" class="img_card">
+	  <img src="/2023/images/jackie_cheung.JPG" alt="Jackie Chi Kit Cheung" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>

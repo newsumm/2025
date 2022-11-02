@@ -16,11 +16,11 @@ layout: home
 <p>
 The Fourth Workshop on "New Frontiers in Summarization" aims to promote the cross-fertilization of ideas in automatic summarization and related fields. This includes discussion on novel paradigms, shared tasks of interest, applied research and applications, and possible future research directions. In addition to building a cohesive research community, the workshop will accelerate knowledge diffusion by developing new tools, datasets, and resources that are in line with the summarization needs of academia, industry, and government. 
 	
+	
 <br>
 New advances in natural language processing (e.g., pre-trained models and prompt-based learning) have resulted in state-of-the-art performance according to existing standards of summarization evaluation. A number of new challenges have emerged, and moving forward with large-scale models we don't fully understand calls for caution. Challenges are posed from multiple directions, including but not limited to the trustworthiness of the generation, the interpretability and controllability of the models, the reliability of evaluation, and the integration of additional sources like knowledge and other modality. Considering these challenges will be crucial for realistic, ecologically valid deployment of summarization research.
 </p>
-<br><br>
-
+<br>
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
@@ -41,7 +41,7 @@ A list of topics relevant to this workshop (but not limited to):
 - Development of new evaluation metrics
 - Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)
 
-<br><br>
+<br>
 <h2 class="blackpar_title">Submission Instructions</h2>
 
 
@@ -50,7 +50,7 @@ You are invited to submit your papers in our <a href='https://www.softconf.com/e
   
 NewSum 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
 
-<br><br>
+<br>
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
 TBD
 <!--
@@ -63,7 +63,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 - Workshop Date: November 10, 2023
 -->
 
-<br> <br>
+<br> 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">
@@ -150,7 +150,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	</div> -->
 </div>
 
-<br><br>
+<br>
   
   
 <!-- Confirmed Spearkers -->
@@ -202,7 +202,7 @@ TBA
 </div>
 <br><br> -->
 
-<br> <br>
+<br>
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
 TBA
 <!-- 

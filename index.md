@@ -155,8 +155,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
   
 <!-- Confirmed Spearkers -->
 TBA
-<!--
-<h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
+<!-- <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
 	  <img src="/2023newsum/images/shashi.jpeg" alt="Shashi Narayan" class="img_card">
@@ -201,8 +200,7 @@ TBA
 	  </div>
 	</div>
 </div>
-<br><br>
--->
+<br><br> -->
 
 <br> <br>
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>

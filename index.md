@@ -63,7 +63,7 @@ TBD
 		<h4>
       <a href="https://www.cs.mcgill.ca/~ydong26/"><b>Yue Dong</b></a>
 			<br>
-			University of California, Riverside, USA
+			University of California Riverside, USA
 		</h4>
 		</center>
 	  </div>

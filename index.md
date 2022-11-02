@@ -40,7 +40,7 @@ A list of topics relevant to this workshop (but not limited to):
 - Cognitive or psycholinguistic aspects of summarization and visualization (e.g. perceived readability, usability, etc)
 
 
-<h2 class="blackpar_title">Submission Instructions</h2>
+<h2 class="blackpar_title" id="Submission">Submission Instructions</h2>
 You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/Summarization/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.aclweb.org/calls/main_conference/#paper-submission-policies'>ACL 2023 style templates</a>. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
 
 NewSum 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 

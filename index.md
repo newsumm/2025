@@ -14,24 +14,10 @@ layout: home
 <h3 class="blackpar_title">The 4th NewSum Workshop </h3>
 </center>
 <p>
-The 4th Workshop on “New Frontiers in Summarization workshop” aims to provide a research forum for cross-fertilization of ideas in automatic summarization and related areas. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government.
+The Fourth Workshop on "New Frontiers in Summarization" aims to promote the cross-fertilization of ideas in automatic summarization and related fields. This includes discussion on novel paradigms, shared tasks of interest, applied research and applications, and possible future research directions. In addition to building a cohesive research community, the workshop will accelerate knowledge diffusion by developing new tools, datasets, and resources that are in line with the summarization needs of academia, industry, and government. 
+	
+New advances in natural language processing (e.g., pre-trained models and prompt-based learning) have resulted in state-of-the-art performance according to existing standards of summarization evaluation. A number of new challenges have emerged, and moving forward with large-scale models we don't fully understand calls for caution. Challenges are posed from multiple directions, including but not limited to the trustworthiness of the generation, the interpretability and controllability of the models, the reliability of evaluation, and the integration of additional sources like knowledge and other modality. Considering these challenges will be crucial for realistic, ecologically valid deployment of summarization research.
 </p>
-<!--	
-The workshop will take place on <span class="blackhighlighted">DATE, 2023</span>. 
-Due to the pandemic, the workshop will be <span class="blackhighlighted">VIRTUAL</span>. More details will be provided soon. 
-
-Note that to attend the event, a registration on the ICLR website is required. All workshop events (except Poster session and open discussion) can be followed using the ICLR link or use the zoom link by clicking on “join zoom” on the ICLR link. For the Poster session participants should une the Gather.town link. Note that papers id can be found on Accepter papers section.
-</p>
-<br>
--->
-  
-<br><br>
-<h2 class="blackpar_title" id="Overview">Overview</h2>
-
-New advances in natural language processing (e.g., pre-trained models with self-supervised objectives) have resulted in state-of-the-art performance according to existing standards of summarization evaluation, by effectively exploiting large-scale datasets and superior computing power. This progress now needs to be complemented in at least two ways. On the one hand, the summarization of large amounts of multimodal data (text + others) needs more sophisticated abstraction capabilities, better integration of abstraction and extraction, more flexible language generation, as well as the ability to combine language with information visualization. On the other hand, to assess the quality of such system summaries, more comprehensive evaluation metrics are needed which correlate more tightly with human judges or extrinsic task-based performance. For example, an important research topic which has emerged in the past two years is to ensure that the output summarization is factually consistent with the source text (Kryscinski et al., 2019), which has resulted in new summarization evaluation techniques focused on correctness. Both of these pillars will be crucial for realistic, ecologically valid deployment of summarization research. 
- 
-The goal for this workshop is to provide a research forum for cross-fertilization of ideas. We seek to bring together researchers from a diverse range of fields (e.g., summarization, visualization, language generation, cognitive and psycholinguistics) for discussion on key issues related to automatic summarization. This includes discussion on novel paradigms/frameworks, shared tasks of interest, information integration and presentation, applied research and applications, and possible future research foci. The workshop will pave the way towards building a cohesive research community, accelerating knowledge diffusion, developing new tools, datasets and resources that are in line with the needs of academia, industry, and government
-
 <br><br>
 
 
@@ -58,13 +44,15 @@ A list of topics relevant to this workshop (but not limited to):
 <h2 class="blackpar_title">Submission Instructions</h2>
 
 
-You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/Summarization/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.emnlp.org/call-for-papers/style-and-formatting'>EMNLP 2023 style templates</a>. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
+You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/Summarization/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.aclweb.org/calls/main_conference/#paper-submission-policies'>ACL 2023 style templates</a>. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
 
   
 NewSum 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
 
 <br><br>
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
+TBD
+<!--
 All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 
 - Anonymity period begins: July 28, 2023
@@ -72,7 +60,7 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 - Acceptance Notification: September 28, 2023 (postponed from September 27, 2023)
 - Camera-Ready Submission: September 30, 2023
 - Workshop Date: November 10, 2023
-
+-->
 
 
 <br> <br>
@@ -166,6 +154,8 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
   
   
 <!-- Confirmed Spearkers -->
+TBA
+<!-- 
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
 <div class="row">
 	<div class="card column">
@@ -211,13 +201,16 @@ All deadlines are 11.59 pm UTC -12h (“anywhere on Earth”).
 	  </div>
 	</div>
 </div>
+-->
 
 <br><br>
 
 <br> <br>
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
+TBA
+<!-- 
 <a href="https://summarization-workshop.github.io/schedule/"><b>NewSum 2023 schedule (9am - 6pm AST)</b></a>
-
+-->
 
 <h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
 <ul>

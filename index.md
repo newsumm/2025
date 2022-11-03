@@ -27,7 +27,9 @@ Both long paper (up to 8 pages with unlimited reference) and short paper (up to 
 
 A list of topics relevant to this workshop (but not limited to):
 
-- Abstractive and extractive summarization
+- Abstractive summarization, extractive summarization and their integration
+- Summarization with pre-trained large models
+- Zero-shot/few-shot summarization
 - Fairness in summarization: faithfulness, bias, toxicity, and privacy-preserving 
 - Interpretability and visualization of summarization systems
 - Controlled and tailored text generation
@@ -40,6 +42,7 @@ A list of topics relevant to this workshop (but not limited to):
 - Development of novel algorithms (e.g., integrating neural and non-neural, distant supervision)
 - Development of new datasets and annotations
 - Development of new evaluation metrics
+
 
 
 
@@ -164,44 +167,46 @@ TBA
 <!-- PC -->
 <h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
 <ul>
-  <li>Enamul Hoque (York University)</li>
-  <li>Jiacheng Xu (The University of Texas at Austin)</li>
-  <li>Rui Zhang (Penn State University)</li>
-  <li>Hou Pong Chan (University of Macau)</li>
-  <li>Yuntian Deng (Harvard University)</li>
-  <li>Kristjan Arumae (Amazon)</li>
-  <li>Xiaojun Wan (Peking University)</li>
-  <li>Chris Kedzie (Rasa Technologies Inc.)</li>
-  <li>Naoaki Okazaki (Tokyo Institute of Technology)</li>
-  <li>Manabu Okumura (Tokyo Institute of Technology)</li>
-  <li>Yang Liu (Microsoft)</li>
-  <li>Tadashi Nomoto (National Institute of Japanese Literature)</li>
-  <li>Linzi Xing (University of British Columbia)</li>
-  <li>Ari Rappoport (Hebrew University)</li>
-  <li>Felice Dell'Orletta (Istituto di Linguistica Computazionale "A. Zampolli" (CNR), Pisa, Italy)</li>
-  <li>Margot Mieskes (University of Applied Sciences Darmstadt, Germany)</li>
-  <li>Rodrigo Souza Wilkens (University of Essex)</li>
-  <li>Maxime Peyrard (EPFL)</li>
-  <li>Benoit Favre (Aix-Marseille University LIS/CNRS)</li>
-  <li>Tobias Falke (Amazon)</li>
-  <li>Thiago Alexandre Salgueiro Pardo (University of São Paulo)</li>
-  <li>Jessica Ouyang (University of Texas at Dallas)</li>
-  <li>Wencan Luo (Google)</li>
-  <li>Florian Boudin (Université de Nantes - France)</li>
-  <li>Juan-Manuel Torres-Moreno (LIA Avignon Université)</li>
-  <li>Michael Elhadad (Ben Gurion University)</li>
-  <li>Esaú Villatoro Tello (Universidad Autónoma Metropolitana Unidad Cuajimalpa, México)</li>
-  <li>Yuning Mao (University of Illinois at Urbana-Champaign)</li>
-  <li>Wen Xiao (University of British Columbia)</li>
-  <li>Xinyu Hua (Northeastern University)</li>
-  <li>Patrick Huber (University of British Columbia)</li>
-  <li>Abram Handler (University of Colorado)</li>
-  <li>Wojciech Kryściński (Salesforce Research)</li>
-  <li>Alexander Fabbri (Yale University)</li>
-  <li>Greg Durrett (UT Austin)</li>
-  <li>Yang Gao (Royal Holloway, University of London, UK)</li>
-  <li>Ramakanth Pasunuru (UNC Chapel Hill)</li>
-  <li>Ido Dagan (Bar-Ilan University)</li>
+<li>Manabu Okumura (Tokyo Institute of Technology)</li>
+<li>Ido Dagan (Bar-Ilan University)</li>
+<li>Ming Zhong (UIUC)</li>
+<li>Kristjan Arumae (Qualtrics)</li>
+<li>Pengcheng He (Microsoft Research)</li>
+<li>Naoaki Okazaki (Tokyo Institute of Technology)</li>
+<li>Zhe Hu (Baidu Inc)</li>
+<li>Wojciech Kryscinski (Salesforce Research)</li>
+<li>Haopeng Zhang (University of California Davis)</li>
+<li>Hou Pong Chan (University of Macau)</li>
+<li>Yang Liu (Microsoft)</li>
+<li>Kaiqiang Song (Tencent AI Lab)</li>
+<li>Juan-Manuel Torres-Moreno (LIA Avignon Université)</li>
+<li>Jing Jiang (Singapore Management University)</li>
+<li>Ziqiang Cao (Soochow University)</li>
+<li>Margot Mieskes (University of Applied Sciences, Darmstadt)</li>
+<li>Felice Dell'Orletta (Istituto di Linguistica Computazionale «A. Zampolli», CNR, Pisa, Italy)</li>
+<li>Xinnuo Xu (University of Edinburgh)</li>
+<li>Richard Evans (University of Wolverhampton)</li>
+<li>Esau Villatoro-Tello (Idiap Research Institute)</li>
+<li>Susana Bautista (Universidad Francisco de Vitoria)</li>
+<li>Tobias Falke (Amazon Alexa)</li>
+<li>Kellie Webster (Google)</li>
+<li>Giulia Venturi (Institute for Computational Linguistics "A. Zampolli" (ILC-CNR)</li>
+<li>Jessica Ouyang (University of Texas at Dallas)</li>
+<li>Wencan Luo (Google)</li>
+<li>Rui Zhang (Penn State University)</li>
+<li>Linzi Xing (University of British Columbia)</li>
+<li>Jiacheng Xu (Salesforce AI Research)</li>
+<li>Tadashi Nomoto (National Institute of Japanese Literature)</li>
+<li>Chao Zhao (UNC Chapel Hill)</li>
+<li>Ori Shapira (Amazon)</li>
+<li>Patrick Huber (UBC)</li>
+<li>Florian Boudin (Nantes Université)</li>
+<li>Xinyu Hua (Bloomberg)</li>
+<li>Elena Lloret (University of Alicante, Spain)</li>
+<li>Alexander Fabbri (Salesforce AI Research)</li>
+<li>Tanya Goyal (UT Austin)</li>
+<li>Yuntian Deng (Harvard University)</li>
+<li>Maxime Peyrard (EPFL)</li>
 </ul>
 
 

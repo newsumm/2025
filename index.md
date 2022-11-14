@@ -150,7 +150,17 @@ TBD
   
 <!-- Confirmed Spearkers -->
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
-TBA
+<ul>
+	<li>Jackie Cheung (McGill University) </li>
+<li>Kathleen McKeown (Columbia University)</li>
+<li>Xuanjing Huang (Fudan University)</li>
+<li>Dragomir Radev (Yale University)</li>
+<li>Wojciech Kryscinski (Salesforce)</li>
+<li>Iz Beltagy (AI2) </li>
+<li>Chenguang Zhu (Microsoft)</li>
+
+	
+	</ul>
 
 
 

@@ -158,9 +158,7 @@ TBD
 <li>Wojciech Kryscinski (Salesforce)</li>
 <li>Iz Beltagy (AI2) </li>
 <li>Chenguang Zhu (Microsoft)</li>
-
-	
-	</ul>
+</ul>
 
 
 

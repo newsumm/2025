@@ -156,7 +156,6 @@ We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2
 	<li>Jackie Cheung (McGill University) </li>
 <li>Kathleen McKeown (Columbia University)</li>
 <li>Xuanjing Huang (Fudan University)</li>
-<li>Dragomir Radev (Yale University)</li>
 <li>Wojciech Kryscinski (Salesforce)</li>
 <li>Iz Beltagy (AI2) </li>
 <li>Chenguang Zhu (Microsoft)</li>

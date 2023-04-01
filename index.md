@@ -150,6 +150,7 @@ TBD
   
 <!-- Confirmed Spearkers -->
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
+We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2023. It's a profound loss that we cannot have him grace our stage. However, we are grateful that Drago's graduated PhD student, Rui Zhang, who is now an assistant professor at PSU, kindly accepted our invitation to give a keynote talk on summarization in memory of Drago. Drago, you will be deeply missed.
 <ul>
 	<li>Jackie Cheung (McGill University) </li>
 <li>Kathleen McKeown (Columbia University)</li>
@@ -158,6 +159,8 @@ TBD
 <li>Wojciech Kryscinski (Salesforce)</li>
 <li>Iz Beltagy (AI2) </li>
 <li>Chenguang Zhu (Microsoft)</li>
+<li>Rui Zhang (Penn State University) </li>	
+<li>Dragomir Radev (in memory of, Yale University)</li>
 </ul>
 
 

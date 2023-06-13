@@ -53,7 +53,13 @@ NewSum 2023 will allow double submission as long as the authors make a decision 
 
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
-TBD
+ - Sep.1, 2023.: Workshop Paper Due Date 
+
+ - Oct. 6, 2023: Notification of Acceptance
+
+ - Oct. 18, 2023: Camera-ready papers due
+
+ - Dec. 6: Workshop Date
 
 
 

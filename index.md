@@ -47,9 +47,9 @@ A list of topics relevant to this workshop (but not limited to):
 
 
 <h2 class="blackpar_title" id="Submission">Submission Instructions</h2>
-You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/Summarization/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.aclweb.org/calls/main_conference/#paper-submission-policies'>ACL 2023 style templates</a>. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
+You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/Summarization/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.aclweb.org/calls/main_conference/#paper-submission-policies'>ACL 2023 style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
 
-NewSum 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSum 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
+NewSumm 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSumm 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
 
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
@@ -176,7 +176,7 @@ We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
 TBA
 <!-- 
-<a href="https://summarization-workshop.github.io/schedule/"><b>NewSum 2023 schedule (9am - 6pm AST)</b></a>
+<a href="https://summarization-workshop.github.io/schedule/"><b>NewSumm 2023 schedule (9am - 6pm AST)</b></a>
 -->
 
 

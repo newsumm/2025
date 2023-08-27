@@ -66,7 +66,7 @@ Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of
 <h3 class="sub_section_title"><strong>Non-archival Option</strong></h3>
 
 
-The authors have the option of submitting previously unpublished research as non-archival, meaning that only the abstract will be published in the conference proceedings. We expect these submissions to describe the same quality of work as archival submissions. These will be reviewed following the same procedure as archival submissions. This option accommodates publication of the work or a superset at a later date in a conference or journal which does not allow previously archived work and to encourage presentation and feedback on mature, yet unpublished work. Non-archival submissions should adhere to the same formatting and length constraints as archival submissions.
+Authors have the flexibility to submit their unpublished research in a non-archival format, where only the abstract will be included in the conference proceedings. These non-archival submissions are expected to meet the same quality criteria as their archival counterparts and will undergo an identical review process. This option is designed to facilitate future publication opportunities in journals or conferences that disallow previously archived material. It also aims to foster engagement and constructive feedback on well-developed but yet-to-be-published work. Like archival submissions, non-archival entries must conform to the established formatting and length guidelines.
 
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>

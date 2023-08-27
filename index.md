@@ -53,18 +53,13 @@ You are invited to submit your papers in our <a href='https://www.softconf.com/e
 NewSumm 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSumm 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
 
 
-
-<section id="FastTrackSubmission">
   <h3 class="sub_section_title"><strong>Fast-Track Submission</strong></h3>
 If your paper has been reviewed by ACL, EMNLP, EACL, or ARR and the average rating is higher than 2.5 (either avg soundness or excitement score), the paper is qualified to be submitted to the fast-track. In the appendix, please include the reviews and a short statement discussing what parts of the paper have been revised.
-</section>
 
 
-
-<section id="ARR">
   <h3 class="sub_section_title"><strong>ACL Rolling Review Submissions</strong></h3>
 Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 10 October 2023. This should include submissions to ARR for the 15 August deadline. The decision of publication will be announced by 17 October 2023. The commitment should be done via the workshop submission website: <a href='https://www.softconf.com/emnlp2023/newsumm2023/'>START/SoftConf submission portal</a> ("ACL Rolling Review Commitment" submission type)
-</section>
+
 
 
 

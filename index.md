@@ -72,13 +72,17 @@ Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of
 
  - Oct. 6, 2023: Notification of Acceptance
 
- - Oct. 18, 2023: Camera-ready papers due
+ - Oct. 10, 2023: ARR Committment deadline 
+
+ - Oct. 10, 2023: Fast-Track submission deadline 
+
+ - Oct. 17, 2023: ARR and Fast-Track notification
+
+ - Oct. 24, 2023: Camera-ready papers due
 
  - Dec. 6: Workshop Date
 
- - ARR Committment deadline ― 10 October 2023
-
- - ARR and EMNLP notification ― 17 October 2023
+ 
 
 
 

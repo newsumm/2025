@@ -60,12 +60,14 @@ If your paper has been reviewed by ACL, EMNLP, EACL, or ARR and the average rati
 </section>
 
 
+
 <section id="ARR">
   <h3 class="sub_section_title"><strong>ACL Rolling Review Submissions</strong></h3>
 Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 10 October 2023. This should include submissions to ARR for the 15 August deadline. The decision of publication will be announced by 17 October 2023. The commitment should be done via the workshop submission website: <a href='https://www.softconf.com/emnlp2023/newsumm2023/'>START/SoftConf submission portal</a> ("ACL Rolling Review Commitment" submission type)
 </section>
 
-<br>
+
+
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
 
  - Sep.8, 2023.: Workshop Submission Due Date  (extended from Sep. 1st)

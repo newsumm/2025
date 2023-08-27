@@ -65,7 +65,7 @@ ACL Rolling Review (ARR) Submissions: Our workshop also welcomes submissions fro
 <h3 class="sub_section_title"><strong>Non-archival Option</strong></h3>
 
 
-Authors have the flexibility to submit their unpublished research in a non-archival format, where only the abstract will be included in the conference proceedings. These non-archival submissions are expected to meet the same quality criteria as their archival counterparts and will undergo an identical review process. This option is designed to facilitate future publication opportunities in journals or conferences that disallow previously archived material. It also aims to foster engagement and constructive feedback on well-developed but yet-to-be-published work. Like archival submissions, non-archival entries must conform to the established formatting and length guidelines.
+ACL workshops are traditionally archival. To allow dual submission of work, we are also including a non-archival track. Authors have the flexibility to submit their unpublished research in a non-archival format, where only the abstract will be included in the conference proceedings. These non-archival submissions are expected to meet the same quality criteria as their archival counterparts and will undergo an identical review process. This option is designed to facilitate future publication opportunities in journals or conferences that disallow previously archived material. It also aims to foster engagement and constructive feedback on well-developed but yet-to-be-published work. Like archival submissions, non-archival entries must conform to the established formatting and length guidelines.
 
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>

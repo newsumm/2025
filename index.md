@@ -25,6 +25,9 @@ New advances in natural language processing (e.g., pre-trained models and prompt
 
 Both long paper (up to 8 pages with unlimited reference) and short paper (up to 4 pages with unlimited reference) are welcomed for submission! 
 
+<section id="Topics">
+  <h3 class="sub_section_title">Relevant Topics</h3>
+
 A list of topics relevant to this workshop (but not limited to):
 
 - Abstractive summarization, extractive summarization and their integration
@@ -42,9 +45,19 @@ A list of topics relevant to this workshop (but not limited to):
 - Development of novel algorithms (e.g., integrating neural and non-neural, distant supervision)
 - Development of new datasets and annotations
 - Development of new evaluation metrics
+</section>
 
 
+<section id="FastTrackSubmission">
+  <h3 class="sub_section_title">Fast-Track Submission</h3>
+If your paper has been reviewed by ACL, EMNLP, EACL, or ARR and the average rating is higher than 2.5 (either avg soundness or excitement score), the paper is qualified to be submitted to the fast-track. In the appendix, please include the reviews and a short statement discussing what parts of the paper have been revised.
+</section>
 
+
+<section id="ARR">
+  <h3 class="sub_section_title">ACL Rolling Review Submissions</h3>
+Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 10 October 2023. This should include submissions to ARR for the 15 August deadline. The decision of publication will be announced by 17 October 2023. The commitment should be done via the workshop submission website: https://www.softconf.com/emnlp2023/newsumm2023/ ("ACL Rolling Review Commitment" submission type)
+</section>
 
 <h2 class="blackpar_title" id="Submission">Submission Instructions</h2>
 You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/newsumm2023/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.aclweb.org/calls/main_conference/#paper-submission-policies'>ACL 2023 style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
@@ -54,7 +67,7 @@ NewSumm 2023 will allow double submission as long as the authors make a decision
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
 
- - Sep.1, 2023.: Workshop Paper Due Date 
+ - Sep.8, 2023.: Workshop Submission Due Date  (extended from Sep. 1st)
 
  - Oct. 6, 2023: Notification of Acceptance
 
@@ -62,6 +75,9 @@ NewSumm 2023 will allow double submission as long as the authors make a decision
 
  - Dec. 6: Workshop Date
 
+ - ARR Committment deadline ― 10 October 2023
+
+ - ARR and EMNLP notification ― 17 October 2023
 
 
 

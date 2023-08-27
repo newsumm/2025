@@ -70,17 +70,17 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
 
- - Sep.8, 2023.: Workshop Submission Due Date  (extended from Sep. 1st)
+ - <strong>Sep.8, 2023</strong>: Workshop Submission Due Date  (extended from Sep. 1st)
 
- - Oct. 6, 2023: Notification of Acceptance
+ - <strong>Oct. 6, 2023</strong>: Notification of Acceptance
 
- - Oct. 10, 2023: Fast-Track Submission and ARR Commitment Deadline 
+ - <strong>Oct. 10, 2023</strong>: Fast-Track Submission and ARR Commitment Deadline 
 
- - Oct. 17, 2023: ARR and Fast-Track Notification
+ - <strong>Oct. 17, 2023</strong>: ARR and Fast-Track Notification
 
- - Oct. 24, 2023: Camera-ready Papers Due
+ - <strong>Oct. 24, 2023</strong>: Camera-ready Papers Due
 
- - Dec. 6: Workshop Date
+ - <strong>Dec. 6</strong>: Workshop Date
 
 
 

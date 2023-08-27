@@ -50,6 +50,8 @@ A list of topics relevant to this workshop (but not limited to):
 <h2 class="blackpar_title" id="Submission">Submission Instructions</h2>
 You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/newsumm2023/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.aclweb.org/calls/main_conference/#paper-submission-policies'>ACL 2023 style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
 
+  <h3 class="sub_section_title"><strong>Dual Submission</strong></h3>
+
 NewSumm 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSumm 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
 
 
@@ -61,6 +63,10 @@ If your paper has been reviewed by ACL, EMNLP, EACL, or ARR and the average rati
 Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 10 October 2023. This should include submissions to ARR for the 15 August deadline. The decision of publication will be announced by 17 October 2023. The commitment should be done via the workshop submission website: <a href='https://www.softconf.com/emnlp2023/newsumm2023/'>START/SoftConf submission portal</a> ("ACL Rolling Review Commitment" submission type)
 
 
+<h3 class="sub_section_title"><strong>Non-archival Option</strong></h3>
+
+
+The authors have the option of submitting previously unpublished research as non-archival, meaning that only the abstract will be published in the conference proceedings. We expect these submissions to describe the same quality of work as archival submissions. These will be reviewed following the same procedure as archival submissions. This option accommodates publication of the work or a superset at a later date in a conference or journal which does not allow previously archived work and to encourage presentation and feedback on mature, yet unpublished work. Non-archival submissions should adhere to the same formatting and length constraints as archival submissions.
 
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>

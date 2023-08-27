@@ -25,8 +25,6 @@ New advances in natural language processing (e.g., pre-trained models and prompt
 
 Both long paper (up to 8 pages with unlimited reference) and short paper (up to 4 pages with unlimited reference) are welcomed for submission! 
 
-<section id="Topics">
-  <h3 class="sub_section_title">Relevant Topics</h3>
 
 A list of topics relevant to this workshop (but not limited to):
 
@@ -45,24 +43,27 @@ A list of topics relevant to this workshop (but not limited to):
 - Development of novel algorithms (e.g., integrating neural and non-neural, distant supervision)
 - Development of new datasets and annotations
 - Development of new evaluation metrics
-</section>
 
 
-<section id="FastTrackSubmission">
-  <h3 class="sub_section_title">Fast-Track Submission</h3>
-If your paper has been reviewed by ACL, EMNLP, EACL, or ARR and the average rating is higher than 2.5 (either avg soundness or excitement score), the paper is qualified to be submitted to the fast-track. In the appendix, please include the reviews and a short statement discussing what parts of the paper have been revised.
-</section>
 
-
-<section id="ARR">
-  <h3 class="sub_section_title">ACL Rolling Review Submissions</h3>
-Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 10 October 2023. This should include submissions to ARR for the 15 August deadline. The decision of publication will be announced by 17 October 2023. The commitment should be done via the workshop submission website: https://www.softconf.com/emnlp2023/newsumm2023/ ("ACL Rolling Review Commitment" submission type)
-</section>
 
 <h2 class="blackpar_title" id="Submission">Submission Instructions</h2>
 You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/newsumm2023/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.aclweb.org/calls/main_conference/#paper-submission-policies'>ACL 2023 style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
 
 NewSumm 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSumm 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
+
+
+<br>
+<section id="FastTrackSubmission">
+  <h3 class="sub_section_title"><strong>Fast-Track Submission</strong></h3>
+If your paper has been reviewed by ACL, EMNLP, EACL, or ARR and the average rating is higher than 2.5 (either avg soundness or excitement score), the paper is qualified to be submitted to the fast-track. In the appendix, please include the reviews and a short statement discussing what parts of the paper have been revised.
+</section>
+
+<br>
+<section id="ARR">
+  <h3 class="sub_section_title"><strong>ACL Rolling Review Submissions</strong></h3>
+Our workshop also welcomes submissions from ACL Rolling Review (ARR). Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 10 October 2023. This should include submissions to ARR for the 15 August deadline. The decision of publication will be announced by 17 October 2023. The commitment should be done via the workshop submission website: <a href='https://www.softconf.com/emnlp2023/newsumm2023/'>START/SoftConf submission portal</a> ("ACL Rolling Review Commitment" submission type)
+</section>
 
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>

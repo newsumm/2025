@@ -182,7 +182,7 @@ We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2
 <li>Xuanjing Huang (Fudan University)</li>
 <li>Wojciech Kryscinski (Salesforce)</li>
 <li>Iz Beltagy (AI2) </li>
-<li>Chenguang Zhu (Microsoft)</li>
+<li>Chenguang Zhu (Zoom)</li>
 <li>Rui Zhang (Penn State University) </li>	
 <li>Dragomir Radev (in memory of, Yale University)</li>
 </ul>

@@ -10,7 +10,7 @@ layout: home
 
 <!-- <img src="/2023/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title"> The 4th New Frontiers in Summarization Workshop </h2>
+<h2 class="blackpar_title"> The 4th New Frontiers in Summarization (with LLMs) Workshop </h2>
 <h3 class="blackpar_title"> EMNLP 2023 </h3>
 </center>
 The Fourth Workshop on "New Frontiers in Summarization" aims to promote the cross-fertilization of ideas in automatic summarization and related fields. This includes discussion on novel paradigms, shared tasks of interest, applied research and applications, and possible future research directions. In addition to building a cohesive research community, the workshop will accelerate knowledge diffusion by developing new tools, datasets, and resources that are in line with the summarization needs of academia, industry, and government. 
@@ -177,10 +177,9 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2023. It's a profound loss that we cannot have him grace our stage. However, we are grateful that Drago's graduated PhD student, Rui Zhang, who is now an assistant professor at PSU, kindly accepted our invitation to give a keynote talk on summarization in memory of Drago. 
 
 <ul>
-	<li>Jackie Cheung (McGill University) </li>
 <li>Kathleen McKeown (Columbia University)</li>
-<li>Xuanjing Huang (Fudan University)</li>
-<li>Wojciech Kryscinski (Salesforce)</li>
+<li>Wojciech Kryscinski (Cohere)</li>
+<li>Jackie Cheung (McGill University) </li>
 <li>Iz Beltagy (AI2) </li>
 <li>Chenguang Zhu (Zoom)</li>
 <li>Rui Zhang (Penn State University) </li>	

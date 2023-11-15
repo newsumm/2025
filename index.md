@@ -241,6 +241,9 @@ TBA
 <li>Tanya Goyal (UT Austin)</li>
 <li>Yuntian Deng (Harvard University)</li>
 <li>Maxime Peyrard (EPFL)</li>
+<li>Arpit Sood (Meta)</li>
+<li>Niyathi Allu (University of California, Riverside)</li>
+<li>Priyanshu Sharma (University of California, Riverside)</li> 
 </ul>
 
 

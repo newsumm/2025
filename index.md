@@ -178,7 +178,6 @@ We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2
 
 <ul>
 <li>Kathleen McKeown (Columbia University)</li>
-<li>Wojciech Kryscinski (Cohere)</li>
 <li>Jackie Cheung (McGill University) </li>
 <li>Iz Beltagy (AI2) </li>
 <li>Chenguang Zhu (Zoom)</li>

@@ -189,10 +189,21 @@ We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2
 
 <!-- Schedule -->
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
-TBA
-<!-- 
-<a href="https://summarization-workshop.github.io/schedule/"><b>NewSumm 2023 schedule (9am - 6pm AST)</b></a>
--->
+Wednesday, December 6, 2023
+
+| Time       | Event & Details                                      |
+|------------|------------------------------------------------------|
+| 08:50 - 09:00 | Opening Remarks                                    |
+| 09:00 - 09:45 | Keynote I - Kathleen McKeown (Columbia University)<br>*Addressing Large Language Models that Lie: Case Studies in Summarization* |
+| 09:45 - 10:30 | Keynote II - Jackie Cheung (McGill University)<br>*Open Problems in Automatic Summarization*     |
+| 10:30 - 11:00 | Coffee Break                                       |
+| 11:00 - 11:45 | Keynote III - Rui Zhang (Penn State University)<br>*Are Large Language Models Fair Summarizers?*    |
+| 11:45 - 12:30 | Keynote IV - Iz Beltagy (Allen Institute for AI)<br>*TBD*   |
+| 12:30 - 14:00 | Lunch Break                                        |
+| 14:00 - 14:45 | Keynote V - Chengguang Zhu (Zoom)<br>*Facing the Challenges and Opportunities of LLMs* |
+| 14:45 - 15:30 | Lightning Talk<br>(Workshop papers and Findings papers) |
+| 15:30 - 16:00 | Coffee Break                                       |
+| 17:30 - 16:00 | Afternoon Session II - Poster Session<br>(Workshop papers and Findings papers) |
 
 
 

@@ -18,7 +18,54 @@ The Fourth Workshop on "New Frontiers in Summarization" aims to promote the cros
 New advances in natural language processing (e.g., pre-trained models and prompt-based learning) have resulted in state-of-the-art performance according to existing standards of summarization evaluation. A number of new challenges have emerged, and moving forward with large-scale models we don't fully understand calls for caution. Challenges are posed from multiple directions, including but not limited to the trustworthiness of the generation, the interpretability and controllability of the models, the reliability of evaluation, and the integration of additional sources like knowledge and other modality. Considering these challenges will be crucial for realistic, ecologically valid deployment of summarization research.
 
 
+<!-- Schedule -->
+<h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
+Wednesday, December 6, 2023
 
+| Time       | Event & Details                                      |
+|------------|------------------------------------------------------|
+| 08:50 - 09:00 | Opening Remarks                                    |
+| 09:00 - 09:45 | Keynote I - **Kathleen McKeown (Columbia University)** <br>*Addressing Large Language Models that Lie: Case Studies in Summarization* |
+| 09:45 - 10:30 | Keynote II - **Jackie Cheung (McGill University)**<br>*Open Problems in Automatic Summarization*     |
+| 10:30 - 11:00 | Coffee Break                                       |
+| 11:00 - 11:45 | Keynote III - **Rui Zhang (Penn State University)**<br>*Are Large Language Models Fair Summarizers?*    |
+| 11:45 - 12:30 | Keynote IV - **Iz Beltagy (Allen Institute for AI)**<br>*TBD*   |
+| 12:30 - 14:00 | Lunch Break                                        |
+| 14:00 - 14:45 | Keynote V - **Chenguang Zhu (Zoom)**<br>*Facing the Challenges and Opportunities of LLMs* |
+| 14:45 - 15:30 | **Lightning Talks**<br>(Workshop papers and Findings papers) |
+| 15:30 - 16:00 | Coffee Break                                       |
+| 17:30 - 16:00 | **Poster Session**<br>(Workshop papers and Findings papers) |
+
+
+<!-- Confirmed Spearkers -->
+<h2 class="blackpar_title" id="Confirmed Spearkers">Keynote Spearkers</h2>
+We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2023. It's a profound loss that we cannot have him grace our stage. However, we are grateful that Drago's graduated PhD student, Rui Zhang, who is now an assistant professor at PSU, kindly accepted our invitation to give a keynote talk on summarization in memory of Drago. 
+
+<div class="row">
+
+ <div class="card column" >
+	 <img src="/2023/images/Kathleen.jpg" alt="Kathleen McKeown" class="img_card">
+	 <div class="container">
+		<center>
+		<h4>
+      <a href="https://www.cs.columbia.edu/~kathy/"><b>Kathleen McKeown</b></a>
+			<br>
+			Columbia University
+		</h4>
+		</center>
+ </div>
+ <div class="card column">
+	 <center><h4>Addressing Large Language Models that Lie: Case Studies in Summarization</h4></center>
+	 The advent of large language models promises a new level of performance in generation of text of all kinds, enabling generation of text that is far more fluent, coherent and relevant than was previously possible. However, they also introduce a major new problem: they hallucinate facts out of thin air. When summarizing an input document, they may incorrectly intermingle facts from the input, they may introduce facts that were not mentioned at all, and worse yet, they may even make up things that are not true in the real world. In this talk, I will discuss our work in characterizing the kinds of errors that can occur and methods that we have developed to help mitigate hallucination in language modeling approaches to text summarization for a variety of genres.
+ </div>
+ </div>
+<!-- <ul>
+<li>Kathleen McKeown (Columbia University)</li>
+<li>Jackie Cheung (McGill University) </li>
+<li>Iz Beltagy (AI2) </li>
+<li>Chenguang Zhu (Zoom)</li>
+<li>Rui Zhang (Penn State University) </li>	
+</ul>-->
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
@@ -172,38 +219,6 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
   
   
   
-<!-- Confirmed Spearkers -->
-<h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Spearkers</h2>
-We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2023. It's a profound loss that we cannot have him grace our stage. However, we are grateful that Drago's graduated PhD student, Rui Zhang, who is now an assistant professor at PSU, kindly accepted our invitation to give a keynote talk on summarization in memory of Drago. 
-
-<ul>
-<li>Kathleen McKeown (Columbia University)</li>
-<li>Jackie Cheung (McGill University) </li>
-<li>Iz Beltagy (AI2) </li>
-<li>Chenguang Zhu (Zoom)</li>
-<li>Rui Zhang (Penn State University) </li>	
-<li>Dragomir Radev (in memory of, Yale University)</li>
-</ul>
-
-
-
-<!-- Schedule -->
-<h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
-Wednesday, December 6, 2023
-
-| Time       | Event & Details                                      |
-|------------|------------------------------------------------------|
-| 08:50 - 09:00 | Opening Remarks                                    |
-| 09:00 - 09:45 | Keynote I - **Kathleen McKeown (Columbia University)** <br>*Addressing Large Language Models that Lie: Case Studies in Summarization* |
-| 09:45 - 10:30 | Keynote II - **Jackie Cheung (McGill University)**<br>*Open Problems in Automatic Summarization*     |
-| 10:30 - 11:00 | Coffee Break                                       |
-| 11:00 - 11:45 | Keynote III - **Rui Zhang (Penn State University)**<br>*Are Large Language Models Fair Summarizers?*    |
-| 11:45 - 12:30 | Keynote IV - **Iz Beltagy (Allen Institute for AI)**<br>*TBD*   |
-| 12:30 - 14:00 | Lunch Break                                        |
-| 14:00 - 14:45 | Keynote V - **Chenguang Zhu (Zoom)**<br>*Facing the Challenges and Opportunities of LLMs* |
-| 14:45 - 15:30 | **Lightning Talks**<br>(Workshop papers and Findings papers) |
-| 15:30 - 16:00 | Coffee Break                                       |
-| 17:30 - 16:00 | **Poster Session**<br>(Workshop papers and Findings papers) |
 
 
 

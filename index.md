@@ -200,7 +200,7 @@ Wednesday, December 6, 2023
 | 11:00 - 11:45 | Keynote III - **Rui Zhang (Penn State University)**<br>*Are Large Language Models Fair Summarizers?*    |
 | 11:45 - 12:30 | Keynote IV - **Iz Beltagy (Allen Institute for AI)**<br>*TBD*   |
 | 12:30 - 14:00 | Lunch Break                                        |
-| 14:00 - 14:45 | Keynote V - **Chengguang Zhu (Zoom)**<br>*Facing the Challenges and Opportunities of LLMs* |
+| 14:00 - 14:45 | Keynote V - **Chenguang Zhu (Zoom)**<br>*Facing the Challenges and Opportunities of LLMs* |
 | 14:45 - 15:30 | **Lightning Talks**<br>(Workshop papers and Findings papers) |
 | 15:30 - 16:00 | Coffee Break                                       |
 | 17:30 - 16:00 | **Poster Session**<br>(Workshop papers and Findings papers) |

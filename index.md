@@ -53,6 +53,7 @@ We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2
 			Columbia University
 		</h4>
 		</center>
+ 	</div>
  </div>
  <div class="card column">
 	 <center><h4>Addressing Large Language Models that Lie: Case Studies in Summarization</h4></center>

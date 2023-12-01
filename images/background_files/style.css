@@ -133,6 +133,7 @@ p { text-align: justify; }
 
 /* Clear floats after the columns */
 .row:after { content: ""; display: table; clear: both; }
+.row { display: flex;}
 
 .img_card { width: 100%; border-radius: 50%; }
 

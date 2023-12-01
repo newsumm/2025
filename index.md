@@ -84,6 +84,69 @@ We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2
   </div>
 </div>
 
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/2023/images/Rui.jpg" alt="Rui Zhang" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://ryanzhumich.github.io/"><b>Rui Zhang</b></a></h2>
+        <p class="affiliation">Penn State University</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Are Large Language Models Fair Summarizers? </h3>
+      <p class="abstract">We live in a world of value pluralism where several values can be equally correct and fundamental, and yet in conflict with each other. Traditional summarization models are optimized for the prestige and centrality of important words and concepts but not for diversity and novelty, and thus when presented with diverse perspectives and conflicting opinions, they can display bias by ignoring certain parts of inputs. In this talk, I will present our initial efforts in investigating fair abstractive summarization by large language models that aims to generate a fair summary for user-generated data by providing an accurate and comprehensive view of various perspectives from different groups.</p>
+    </div>
+  </div>
+</div>
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/2023/images/Iz.jpg" alt="Iz Beltagy" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://beltagy.net/"><b>Iz Beltagy</b></a></h2>
+        <p class="affiliation">Allen Institute for AI</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">TBA</h3>
+      <p class="abstract">TBA</p>
+    </div>
+  </div>
+</div>
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/2023/images/Chenguang.jpg" alt="Chenguang Zhu" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://cs.stanford.edu/people/cgzhu/"><b>Chenguang Zhu</b></a></h2>
+        <p class="affiliation">Zoom</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Facing the Challenges and Opportunities of LLMs</h3>
+      <p class="abstract">Recent progress of LLMs has dramatically changed the research and business communities, and posed challenges to many NLP research areas such as summarization. However, the ultimate goal of any model is to perfectly solve specialized domain problems users care about, which is not achieved by existing LLMs as a generalist. In this talk, I will introduce how to face these challenges and adapt NLP research in the new LLM era. This includes: 1) Adapt and Improve, i.e., integrate traditional NLP and ML techniques with LLM to achieve better performance in various domains; 2) Leverage and Empower, i.e., stand on the shoulder of LLM to tackle complex problems. These measures can effectively guide a generalist LLM towards a specialist in domains of interest. 
+</p>
+    </div>
+  </div>
+</div>
 <!-- 
 <ul>
 <li>Kathleen McKeown (Columbia University)</li>

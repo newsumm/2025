@@ -25,16 +25,16 @@ Wednesday, December 6, 2023
 | Time       | Event & Details                                      |
 |------------|------------------------------------------------------|
 | 08:50 - 09:00 | Opening Remarks                                    |
-| 09:00 - 09:45 | Keynote I - **Kathleen McKeown (Columbia University)** <br>*Addressing Large Language Models that Lie: Case Studies in Summarization* |
-| 09:45 - 10:30 | Keynote II - **Jackie Cheung (McGill University)**<br>*Open Problems in Automatic Summarization*     |
+| 09:00 - 09:45 | **Keynote I - Kathleen McKeown (Columbia University)** <br>*Addressing Large Language Models that Lie: Case Studies in Summarization* |
+| 09:45 - 10:30 | **Keynote II - Jackie Cheung (McGill University)**<br>*Open Problems in Automatic Summarization*     |
 | 10:30 - 11:00 | Coffee Break                                       |
-| 11:00 - 11:45 | Keynote III - **Rui Zhang (Penn State University)**<br>*Are Large Language Models Fair Summarizers?*    |
-| 11:45 - 12:30 | Keynote IV - **Iz Beltagy (Allen Institute for AI)**<br>*TBD*   |
+| 11:00 - 11:45 | **Keynote III - Rui Zhang (Penn State University)**<br>*Are Large Language Models Fair Summarizers?*    |
+| 11:45 - 12:30 | **Keynote IV - Iz Beltagy (Allen Institute for AI)**<br>*TBD*   |
 | 12:30 - 14:00 | Lunch Break                                        |
-| 14:00 - 14:45 | Keynote V - **Chenguang Zhu (Zoom)**<br>*Facing the Challenges and Opportunities of LLMs* |
+| 14:00 - 14:45 | **Keynote V - Chenguang Zhu (Zoom)**<br>*Facing the Challenges and Opportunities of LLMs* |
 | 14:45 - 15:30 | **Lightning Talks**<br>(Workshop papers and Findings papers) |
 | 15:30 - 16:00 | Coffee Break                                       |
-| 17:30 - 16:00 | **Poster Session**<br>(Workshop papers and Findings papers) |
+| 16:00 - 17:30 | **Poster Session**<br>(Workshop papers and Findings papers) |
 
 
 <!-- Confirmed Spearkers -->
@@ -42,34 +42,56 @@ Wednesday, December 6, 2023
 We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2023. It's a profound loss that we cannot have him grace our stage. However, we are grateful that Drago's graduated PhD student, Rui Zhang, who is now an assistant professor at PSU, kindly accepted our invitation to give a keynote talk on summarization in memory of Drago. 
 
 
-<!-- <div class="row">
- 	<div class="column">
-	 <div class="card">
-	 <img src="/2023/images/Kathleen.jpg" alt="Kathleen McKeown" class="img_card">
-	 	<div class="container">
-		<center>
-		<h4>
-      <a href="https://www.cs.columbia.edu/~kathy/"><b>Kathleen McKeown</b></a>
-			<br>
-			Columbia University
-		</h4>
-		</center>
- 		</div>
-	 </div>
-	 <div class="column" >
-	 <center><h4>Addressing Large Language Models that Lie: Case Studies in Summarization</h4></center><br>
-	 The advent of large language models promises a new level of performance in generation of text of all kinds, enabling generation of text that is far more fluent, coherent and relevant than was previously possible. However, they also introduce a major new problem: they hallucinate facts out of thin air. When summarizing an input document, they may incorrectly intermingle facts from the input, they may introduce facts that were not mentioned at all, and worse yet, they may even make up things that are not true in the real world. In this talk, I will discuss our work in characterizing the kinds of errors that can occur and methods that we have developed to help mitigate hallucination in language modeling approaches to text summarization for a variety of genres.
-	</div> 
-</div> -->
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/2023/images/Kathleen.jpg" alt="Kathleen McKeown" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://www.cs.columbia.edu/~kathy/"><b>Kathleen McKeown</b></a></h2>
+        <p class="affiliation">Columbia University</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Addressing Large Language Models that Lie: Case Studies in Summarization</h3>
+      <p class="abstract">The advent of large language models promises a new level of performance in the generation of text of all kinds, enabling the generation of text that is far more fluent, coherent, and relevant than was previously possible. However, they also introduce a major new problem: they hallucinate facts out of thin air. When summarizing an input document, they may incorrectly intermingle facts from the input, they may introduce facts that were not mentioned at all, and worse yet, they may even make up things that are not true in the real world. In this talk, I will discuss our work in characterizing the kinds of errors that can occur and methods that we have developed to help mitigate hallucination in language modeling approaches to text summarization for a variety of genres.</p>
+    </div>
+  </div>
+</div>
 
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/2023/images/Jackie.jpg" alt="Jackie Cheung" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://www.cs.mcgill.ca/~jcheung/"><b>Jackie Cheung</b></a></h2>
+        <p class="affiliation">McGill University</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Open Problems in Automatic Summarization</h3>
+      <p class="abstract">Pre-trained language models have met and exceeded human-level performance on summarization benchmarks, often with the help of adaptation towards task-specific or human-elicited rewards. What does this mean for the field of automatic summarization? I argue that these results represent a milestone to be celebrated, but that they barely scratch the surface of the work ahead for summarization researchers. I discuss challenges that still remain largely unsolved and under-researched: how do we develop summarization systems that can perform more complex reasoning? How do we use this reasoning capability to aggregate and analyze information across vast amounts of text? What responsible AI issues matter in the deployment of summarization systems? And how do we evaluate for all of these desiderata? Progress on these open questions gives us the exciting prospect of summarization systems that are useful and beneficial in practice.</p>
+    </div>
+  </div>
+</div>
 
+<!-- 
 <ul>
 <li>Kathleen McKeown (Columbia University)</li>
 <li>Jackie Cheung (McGill University) </li>
 <li>Iz Beltagy (AI2) </li>
 <li>Chenguang Zhu (Zoom)</li>
 <li>Rui Zhang (Penn State University) </li>	
-</ul>
+</ul> -->
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>

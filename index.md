@@ -43,7 +43,7 @@ We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2
 
 
 <div class="row">
- 	<div class="column left", style="flex: 1;" >
+ 	<div class="column", style="flex: 1;" >
 	 <div class="card">
 	 <img src="/2023/images/Kathleen.jpg" alt="Kathleen McKeown" class="img_card">
 	 	<div class="container">
@@ -56,10 +56,8 @@ We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2
 		</center>
  		</div>
 	 </div>
- 	</div>
-
-	<div class="column right", style="flex: 3;" >
-	 <center><h4>Addressing Large Language Models that Lie: Case Studies in Summarization</h4></center>
+	 <div class="column", style="flex: 3;" >
+	 <center><h4>Addressing Large Language Models that Lie: Case Studies in Summarization</h4></center><br>
 	 The advent of large language models promises a new level of performance in generation of text of all kinds, enabling generation of text that is far more fluent, coherent and relevant than was previously possible. However, they also introduce a major new problem: they hallucinate facts out of thin air. When summarizing an input document, they may incorrectly intermingle facts from the input, they may introduce facts that were not mentioned at all, and worse yet, they may even make up things that are not true in the real world. In this talk, I will discuss our work in characterizing the kinds of errors that can occur and methods that we have developed to help mitigate hallucination in language modeling approaches to text summarization for a variety of genres.
 	</div> 
 </div>

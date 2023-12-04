@@ -34,7 +34,7 @@ Wednesday, December 6, 2023
 | 14:00 - 14:45 | **Keynote V - Chenguang Zhu (Zoom)**<br>*Facing the Challenges and Opportunities of LLMs* |
 | 14:45 - 15:30 | **Lightning Talks**<br>(Workshop papers and Findings papers) |
 | 15:30 - 16:00 | Coffee Break                                       |
-| 16:00 - 17:30 | **Poster Session**<br>(Workshop papers and Findings papers) |
+| 16:00 - 17:30 | **Poster Session** (In-person/Virtual: Gathertown)<br>(Workshop papers and Findings papers) |
 
 
 <!-- Confirmed Spearkers -->

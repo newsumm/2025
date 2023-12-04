@@ -242,7 +242,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 		<h4>
       <a href="https://wendy-xiao.github.io/"><b>Wen Xiao</b></a>
 			<br>
-			University of British Columbia, Canada
+			Microsoft, Canada
 		</h4>
 		</center>
 	  </div>

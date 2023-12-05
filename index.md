@@ -22,8 +22,8 @@ New advances in natural language processing (e.g., pre-trained models and prompt
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
 Wednesday, December 6, 2023
 
-| Time       | Session Chair | Event & Details                                      |
-|------------|---------------|------------------------------------------------------|
+| Time          | Session Chair | Event & Details                                      |
+|---------------|---------------|------------------------------------------------------|
 | 08:50 - 09:00 | Wen Xiao | Opening Remarks |
 | 09:00 - 09:45 | Lei Yu | **Keynote I - Kathleen McKeown (Columbia University)** <br>*Addressing Large Language Models that Lie: Case Studies in Summarization* |
 | 09:45 - 10:30 | Lei Yu | **Keynote II - Jackie Cheung (McGill University)**<br>*Open Problems in Automatic Summarization* |

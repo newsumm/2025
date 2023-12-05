@@ -25,15 +25,15 @@ Wednesday, December 6, 2023
 | Time       | Event & Details                                      |
 |------------|------------------------------------------------------|
 | 08:50 - 09:00 | Opening Remarks |
-| Session Chair: Lei Yu| |
+| | Session Chair: Lei Yu|
 | 09:00 - 09:45 | **Keynote I - Kathleen McKeown (Columbia University)** <br>*Addressing Large Language Models that Lie: Case Studies in Summarization* |
 | 09:45 - 10:30 | **Keynote II - Jackie Cheung (McGill University)**<br>*Open Problems in Automatic Summarization*     |
 | 10:30 - 11:00 | Coffee Break |
-| Session Chair: Wen Xiao | |
+| | Session Chair: Wen Xiao |
 | 11:00 - 11:45 | **Keynote III - Rui Zhang (Penn State University)**<br>*Are Large Language Models Fair Summarizers?*    |
 | 11:45 - 12:30 | **Keynote IV - Iz Beltagy (Allen Institute for AI)**<br>*TBD*   |
 | 12:30 - 14:00 | Lunch Break |
-| Session Chair: Wen Xiao | |
+| | Session Chair: Wen Xiao | 
 | 14:00 - 14:45 | **Keynote V - Chenguang Zhu (Zoom)**<br>*Facing the Challenges and Opportunities of LLMs* |
 | 14:45 - 15:30 | **Lightning Talks**<br>(Workshop papers and Findings papers) |
 | 15:30 - 16:00 | Coffee Break                                       |

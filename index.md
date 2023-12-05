@@ -29,7 +29,7 @@ Wednesday, December 6, 2023
 | 09:45 - 10:30 | Lei Yu | **Keynote II - Jackie Cheung (McGill University)**<br>*Open Problems in Automatic Summarization* |
 | 10:30 - 11:00 | - | Coffee Break |
 | 11:00 - 11:45 | Wen Xiao | **Keynote III - Rui Zhang (Penn State University)**<br>*Are Large Language Models Fair Summarizers?* |
-| 11:45 - 12:30 | Wen Xiao  | **Keynote IV - Iz Beltagy (Allen Institute for AI)**<br>*TBD* |
+| 11:45 - 12:30 | Wen Xiao  | **Keynote IV - Iz Beltagy (Allen Institute for AI)**<br>*The Quest for Open Language Models* |
 | 12:30 - 14:00 | - | Lunch Break |
 | 14:00 - 14:45 | Wen Xiao | **Keynote V - Chenguang Zhu (Zoom)**<br>*Facing the Challenges and Opportunities of LLMs* |
 | 14:45 - 15:30 | Wen Xiao | **Lightning Talks**<br>(Workshop papers and Findings papers) |
@@ -121,8 +121,10 @@ We are deeply sad that our invited speaker - Dragomir Radev had passed away in 2
   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">TBA</h3>
-      <p class="abstract">TBA</p>
+      <h3 class="talk_title">The Quest for Open Language Models</h3>
+      <p class="abstract">With the rapid progress of proprietary language models, the open research community is spending more effort to advance the state-of-the-art of open models. For that, AI2 started a project called OLMo, aiming to build and release an entirely in-house, truly open LLM. In this talk, I will tell you more about what AI2 is building for OLMo. I will discuss the DOLMA dataset and its toolkit. I will discuss our pretraining and modeling experience. Finally, I will talk about our efforts in language model adaptation, focusing on instruction tuning and RLHF efforts to train and evaluate the TULU models. 
+
+With the rapid advancement of proprietary language models, the open research community is increasingly focused on developing state-of-the-art open models. AI2 has initiated a project named OLMo, with the goal of creating and releasing a completely in-house, fully open LLM. In this presentation, I will delve into AI2's work on OLMo. I'll explore the DOLMA dataset and its associated toolkit, share insights from our pretraining and modeling experiences, and conclude by discussing our language model adaptation efforts. This will focus on instruction tuning and RLHF efforts used to train and evaluate the TULU models.</p>
     </div>
   </div>
 </div>

@@ -21,14 +21,15 @@ New advances in natural language processing (e.g., pre-trained models and prompt
 <!-- Schedule -->
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
 Wednesday, December 6, 2023
-<a href="https://us06web.zoom.us/rec/play/zt3pM74bV1HUGag7gXo5fe7NBaL4uWEO7qtRAqapCbMPesNFcNsjZMU-YutduwehrXsh617z0VlIPzHI.7TQHvQNsFti1z6cZ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Flak8O0xXHGBeVx2Ecf2rv6ACrRTWN6xGDOCLCrtWNBIXQ6TBvMtWe8oWKYClEZq8.EZ6w-2lgWj-jRcuS"><strong>Live Record of all Oral Sessions</strong>
 
-* We are sorry that only part of Chenguang's talk has been recorded due to technical problems.
+<a href="https://us06web.zoom.us/rec/play/zt3pM74bV1HUGag7gXo5fe7NBaL4uWEO7qtRAqapCbMPesNFcNsjZMU-YutduwehrXsh617z0VlIPzHI.7TQHvQNsFti1z6cZ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Flak8O0xXHGBeVx2Ecf2rv6ACrRTWN6xGDOCLCrtWNBIXQ6TBvMtWe8oWKYClEZq8.EZ6w-2lgWj-jRcuS"><strong>Live Record of all Oral Sessions</strong></a>
+
+*We are sorry that only part of Chenguang's talk has been recorded due to technical problems.*
 
 
 | Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      | Session Chair | Event & Details                                      |
 |---------------|---------------|------------------------------------------------------|
-| 08:50 - 09:00 | Wen Xiao | Opening Remarks |
+| 08:50 - 09:00 | Wen Xiao | Opening Remarks  <a href="/2023/files/NewSumm_open_remark.pdf">Slides</a>|
 | 09:00 - 09:45 | Lei Yu | **Keynote I - Kathleen McKeown (Columbia University)** <br>*Addressing Large Language Models that Lie: Case Studies in Summarization* |
 | 09:45 - 10:30 | Lei Yu | **Keynote II - Jackie Cheung (McGill University)**<br>*Open Problems in Automatic Summarization* |
 | 10:30 - 11:00 | - | Coffee Break |
@@ -36,7 +37,7 @@ Wednesday, December 6, 2023
 | 11:45 - 12:30 | Wen Xiao  | **Keynote IV - Iz Beltagy (Allen Institute for AI)**<br>*The Quest for Open Language Models* |
 | 12:30 - 14:00 | - | Lunch Break |
 | 14:00 - 14:45 | Wen Xiao | **Keynote V - Chenguang Zhu (Zoom)**<br>*Facing the Challenges and Opportunities of LLMs* |
-| 14:45 - 15:30 | Wen Xiao | **Lightning Talks**<br>(Workshop papers and Findings papers) |
+| 14:45 - 15:30 | Wen Xiao | **Lightning Talks**<br>(Workshop papers and Findings papers, <a href="/2023/files/NewSumm_lightning.pdf">Slides</a>) |
 | 15:30 - 16:00 | - | Coffee Break |
 | 16:00 - 17:30 | Wen Xiao | **Poster Session** (In-person/Virtual: Gathertown)<br>(Workshop papers and Findings papers) |
 

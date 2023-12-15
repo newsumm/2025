@@ -21,7 +21,8 @@ New advances in natural language processing (e.g., pre-trained models and prompt
 <!-- Schedule -->
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
 Wednesday, December 6, 2023
-
+<strong><a href="https://us06web.zoom.us/rec/play/zt3pM74bV1HUGag7gXo5fe7NBaL4uWEO7qtRAqapCbMPesNFcNsjZMU-YutduwehrXsh617z0VlIPzHI.7TQHvQNsFti1z6cZ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Flak8O0xXHGBeVx2Ecf2rv6ACrRTWN6xGDOCLCrtWNBIXQ6TBvMtWe8oWKYClEZq8.EZ6w-2lgWj-jRcuS">Live Record of all Oral Sessions</strong>
+* We are sorry that only part of Chenguang's talk has been recorded due to technical problems.
 | Time       | Event & Details                                      |
 |------------|------------------------------------------------------|
 | 08:50 - 09:00 | Opening Remarks                                    |

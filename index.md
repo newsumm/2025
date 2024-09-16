@@ -142,7 +142,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
   
 
 <div class="card column">
-	  <img src="/newsumm_2025/images/Ori_Ernst_crop.jpg" alt="Ori Ernst" class="img_card">
+	  <img src="/newsumm_2025/images/Ori_Ernst_copy.jpg" alt="Ori Ernst" class="img_card">
 	  <div class="container" >
 		<center>
 		<h4>

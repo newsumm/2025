@@ -148,7 +148,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 		<h4>
 			<a href="https://oriern.github.io/"><b>Ori Ernst</b></a>
 			<br>
-			McGill University & MILA, Canada
+			McGill University & Mila, Canada
 		</h4>
 		</center>
 	  </div>

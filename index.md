@@ -112,8 +112,8 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 	  </div>
 	</div>
  
-    <div class="card column" style="margin-left:0;">
-	  <img src="/images/haopeng_zhang.JPG" alt="Haopeng Zhang" class="img_card">
+<div class="card column" style="margin-left:0;">
+	  <img src="/images/haopeng_zhang.png" alt="Haopeng Zhang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -128,7 +128,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 
 <div class="row">
   <div class="card column" >
-  <img src="/images/rui_zhang.JPG" alt="Rui Zhang" class="img_card">
+  <img src="/images/rui_zhang.jpeg" alt="Rui Zhang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -142,7 +142,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
   
 
 <div class="card column">
-	  <img src="/images/ori_ernst.JPG" alt="Ori Ernst" class="img_card">
+	  <img src="/images/ori_ernst.jpg" alt="Ori Ernst" class="img_card">
 	  <div class="container" >
 		<center>
 		<h4>

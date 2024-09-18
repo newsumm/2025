@@ -158,6 +158,34 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 		</center>
 	  </div>
 	</div>
+
+<div class="card column" style="margin-left:0;">
+	  <img src="/newsumm_2025/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<a href="https://web.eecs.umich.edu/~wangluxy/"><b>Wang Lu</b></a>
+			<br>
+			University of Michigan, USA
+		</h4>
+		</center>
+	  </div>
+	</div>
+  </div>
+
+<div class="row">
+  <div class="card column" >
+  <img src="/newsumm_2025/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<a href="http://www.cs.ucf.edu/~feiliu/"><b>Fei Liu</b></a>
+			<br>
+			Emory University, USA
+		</h4>
+		</center>
+	  </div>
+	</div>
   
 </div>
 

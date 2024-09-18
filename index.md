@@ -13,9 +13,10 @@ layout: home
 <h2 class="blackpar_title"> The 5th New Frontiers in Summarization Workshop </h2>
 <h3 class="blackpar_title"> EMNLP 2025 </h3>
 </center>
-The Fifth Workshop on "New Frontiers in Summarization" aims to promote the cross-fertilization of ideas in automatic summarization and related fields. This includes discussion on novel paradigms, shared tasks of interest, applied research and applications, and possible future research directions. In addition to building a cohesive research community, the workshop will accelerate knowledge diffusion by developing new tools, datasets, and resources that are in line with the summarization needs of academia, industry, and government. 
-		
-New advances in natural language processing (e.g., pre-trained models and prompt-based learning) have resulted in state-of-the-art performance according to existing standards of summarization evaluation. A number of new challenges have emerged, and moving forward with large-scale models we don't fully understand calls for caution. Challenges are posed from multiple directions, including but not limited to the trustworthiness of the generation, the interpretability and controllability of the models, the reliability of evaluation, and the integration of additional sources like knowledge and other modality. Considering these challenges will be crucial for realistic, ecologically valid deployment of summarization research.
+The Fifth Workshop on "New Frontiers in Summarization" aims to foster cross-fertilization of ideas in automatic summarization and related fields. It will cover novel paradigms, shared tasks, applied research, and future directions while accelerating the development of tools, datasets, and resources to meet the summarization needs of academia, industry, and government. As advances in natural language processing (e.g., pre-trained models and prompt-based learning) improve summarization performance, challenges remain in areas such as trustworthiness, interpretability, evaluation reliability, and the integration of knowledge and modalities for real-world deployment.
+
+To tackle these challenges, we plan to expand the workshop's scope beyond traditional summarization to include grounded text generation with retrieval, reference- and attribute-based summarization, multi-modal and long-form summarization, query-focused approaches, hallucination reduction, efficiency, and novel evaluation methods. This broader focus, particularly addressing the growing role of large language models (LLMs), is expected to attract wider engagement from the research community and push the boundaries of summarization research.
+
 
 
 
@@ -28,38 +29,42 @@ Both long paper (up to 8 pages with unlimited reference) and short paper (up to 
 
 A list of topics relevant to this workshop (but not limited to):
 
-- Abstractive summarization, extractive summarization and their integration
+- Abstractive, extractive, and hybrid summarization
 - Summarization with pre-trained large models
 - Zero-shot/few-shot summarization
-- Fairness in summarization: faithfulness, bias, toxicity, and privacy-preserving 
-- Interpretability and visualization of summarization systems
-- Controlled and tailored text generation
-- Knowledge/common sense injected summarization
-- Multiple text genres (News, tweets, product reviews, conversations, medical records, books, research articles, etc.)
-- Multimodal learning: information integration and aggregation across multiple modalities (text, speech, image, video)
+- Long-context summarization
+- Fairness in summarization: faithfulness, bias, toxicity, and privacy-preserving methods
+- Interpretability, controllability, and visualization of summarization systems
+- Reference- and attribute-based summarization
+- Query-focused summarization
+- Knowledge-injected summarization with retrieval
 - Multilingual summarization
-- Semantic aspects of summarization (e.g., semantic representation, inference, validity)
-- Cognitive or psycholinguistic aspects of summarization (e.g., perceived readability, usability, etc.)
-- Development of novel algorithms (e.g., integrating neural and non-neural, distant supervision)
-- Development of new datasets and annotations
+- Multimodal summarization (text, speech, image, video)
+- Multi-genre summarization (news, tweets, product reviews, conversations, medical records, etc.)
+- Semantic aspects of summarization (representation, inference, validity)
+- Cognitive and psycholinguistic aspects (readability, usability)
+- Development of new algorithms, datasets, and annotations
 - Development of new evaluation metrics
+- Hallucination reduction and trustworthiness in summarization
+- Efficiency in summarization and large model inference
+
 
 
 
 
 <h2 class="blackpar_title" id="Submission">Submission Instructions</h2>
-You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2023/newsumm2023/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://2023.aclweb.org/calls/main_conference/#paper-submission-policies'>ACL 2023 style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
+You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2025/newsumm2025/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://aclrollingreview.org/authors'>ACL style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
 
   <h3 class="sub_section_title"><strong>Dual Submission</strong></h3>
 
-NewSumm 2023 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSumm 2023 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
+NewSumm 2025 will allow double submission as long as the authors make a decision before camera-ready. We will not consider any paper that overlaps significantly in content or results with papers that will be (or have been) published elsewhere. Authors submitting more than one paper to NewSumm 2025 must ensure that their submissions do not overlap significantly (>25%) with each other in content or results. Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. 
 
 
   <h3 class="sub_section_title"><strong>Fast-Track Submission</strong></h3>
 If your paper has been reviewed by ACL, EMNLP, EACL, or ARR and the average rating is higher than 2.5 (either avg soundness or excitement score), the paper is qualified to be submitted to the fast-track. In the appendix, please include the reviews and a short statement discussing what parts of the paper have been revised.
 
 
-ACL Rolling Review (ARR) Submissions: Our workshop also welcomes submissions from ARR. Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 10 October 2023. This should include submissions to ARR for the 15 August deadline. The decision of publication will be announced by 17 October 2023. The commitment should be done via the workshop submission website: <a href='https://www.softconf.com/emnlp2023/newsumm2023/'>START/SoftConf submission portal</a> ("ACL Rolling Review Commitment" submission type)
+ACL Rolling Review (ARR) Submissions: Our workshop also welcomes submissions from ARR. Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 10 October 2025. This should include submissions to ARR for the 15 August deadline. The decision of publication will be announced by 17 October 2025. The commitment should be done via the workshop submission website: <a href='https://www.softconf.com/emnlp2025/newsumm2025/'>START/SoftConf submission portal</a> ("ACL Rolling Review Commitment" submission type)
 
 
 <h3 class="sub_section_title"><strong>Non-archival Option</strong></h3>
@@ -70,15 +75,15 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
 
- - <strong>Sep.8, 2023</strong>: Workshop Submission Due Date (extended from Sep. 1st)
+ - <strong>Sep. 1, 2025</strong>: Workshop Submission Due Date
 
- - <strong>Oct. 10, 2023</strong>: Fast-Track Submission and ARR Commitment Deadline 
+ - <strong>Oct. 10, 2025</strong>: Fast-Track Submission and ARR Commitment Deadline 
 
-- <strong>Oct. 17, 2023</strong>: Notification of Acceptance (Direct, ARR, and Fast-Track Notification)
+- <strong>Oct. 17, 2025</strong>: Notification of Acceptance (Direct, ARR, and Fast-Track Notification)
 
- - <strong>Oct. 24, 2023</strong>: Camera-ready Papers Due
+ - <strong>Oct. 24, 2025</strong>: Camera-ready Papers Due
 
- - <strong>Dec. 6</strong>: Workshop Date
+ - <strong>Dec. 6, 2025</strong>: Workshop Date
 
 
 

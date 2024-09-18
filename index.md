@@ -197,7 +197,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 
 
 
-<!-- PC -->
+<!-- PC 
 <h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
 <ul>
 <li>Manabu Okumura (Tokyo Institute of Technology)</li>
@@ -244,6 +244,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 <li>Niyathi Allu (University of California, Riverside)</li>
 <li>Priyanshu Sharma (University of California, Riverside)</li> 
 </ul>
+-->
 
 
 

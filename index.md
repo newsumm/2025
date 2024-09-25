@@ -95,7 +95,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
       <img src="/newsumm_2025/images/fabbri.png" alt="Alexander R. Fabbri" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://alex-fabbri.github.io/"><b>Alexander R. Fabbri</b></a></h2>
-        <p class="affiliation">Allen Institute for AI</p>
+        <p class="affiliation">Salesforce</p>
       </div>
     </div>
   </div>
@@ -116,7 +116,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
       <img src="/newsumm_2025/images/yulia.jpg" alt="Yulia Tsvetkov" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://homes.cs.washington.edu/~yuliats/"><b>Yulia Tsvetkov</b></a></h2>
-        <p class="affiliation">Zoom</p>
+        <p class="affiliation">University of Washington</p>
       </div>
     </div>
   </div>
@@ -140,7 +140,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
       <img src="/newsumm_2025/images/marielle_lapata.jpeg" alt="Mirella Lapata" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://homepages.inf.ed.ac.uk/mlap/"><b>Mirella Lapata</b></a></h2>
-        <p class="affiliation">Zoom</p>
+        <p class="affiliation">The University of Edinburgh</p>
       </div>
     </div>
   </div>

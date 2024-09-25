@@ -26,15 +26,15 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/Kathleen.jpg" alt="Mohit Bansal" class="img_card" style="width: 100%;">
+      <img src="/newsumm_2025/images/mb2019.png" alt="Mohit Bansal" class="img_card" style="width: 100%;">
       <div class="container">
-        <h2><a href="https://www.cs.columbia.edu/~kathy/"><b>Kathleen McKeown</b></a></h2>
-        <p class="affiliation">Columbia University</p>
+        <h2><a href="https://www.cs.unc.edu/~mbansal/"><b>Mohit Bansal</b></a></h2>
+        <p class="affiliation">University of North Carolina at Chapel Hill</p>
       </div>
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) -->
+  <!-- Title and Abstract Column (Wider) 
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">Addressing Large Language Models that Lie: Case Studies in Summarization</h3>
@@ -42,20 +42,21 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
 </div>
+-->
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/2023/images/Jackie.jpg" alt="Jackie Cheung" class="img_card" style="width: 100%;">
+      <img src="/newsumm_2025/images/arman.jpg" alt="Arman Cohan" class="img_card" style="width: 100%;">
       <div class="container">
-        <h2><a href="https://www.cs.mcgill.ca/~jcheung/"><b>Jackie Cheung</b></a></h2>
+        <h2><a href="https://armancohan.com/"><b>Arman Cohan</b></a></h2>
         <p class="affiliation">McGill University</p>
       </div>
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) -->
+  <!-- Title and Abstract Column (Wider)
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">Open Problems in Automatic Summarization</h3>
@@ -64,19 +65,21 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   </div>
 </div>
 
+ -->
+
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/2023/images/Rui.jpg" alt="Rui Zhang" class="img_card" style="width: 100%;">
+      <img src="/newsumm_2025/images/greg.png" alt="Greg Durrett" class="img_card" style="width: 100%;">
       <div class="container">
-        <h2><a href="https://ryanzhumich.github.io/"><b>Rui Zhang</b></a></h2>
-        <p class="affiliation">Penn State University</p>
+        <h2><a href="https://www.cs.utexas.edu/~gdurrett/"><b>Greg Durrett</b></a></h2>
+        <p class="affiliation">The University of Texas at Austin</p>
       </div>
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) -->
+  <!-- Title and Abstract Column (Wider)
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">Are Large Language Models Fair Summarizers? </h3>
@@ -84,20 +87,22 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
 </div>
+ -->
+
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/2023/images/Iz.jpg" alt="Iz Beltagy" class="img_card" style="width: 100%;">
+      <img src="/newsumm_2025/images/fabbri.png" alt="Alexander R. Fabbri" class="img_card" style="width: 100%;">
       <div class="container">
-        <h2><a href="https://beltagy.net/"><b>Iz Beltagy</b></a></h2>
+        <h2><a href="https://alex-fabbri.github.io/"><b>Alexander R. Fabbri</b></a></h2>
         <p class="affiliation">Allen Institute for AI</p>
       </div>
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) -->
+  <!-- Title and Abstract Column (Wider) 
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">The Quest for Open Language Models</h3>
@@ -107,20 +112,21 @@ With the rapid advancement of proprietary language models, the open research com
     </div>
   </div>
 </div>
+-->
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/2023/images/Chenguang.jpg" alt="Chenguang Zhu" class="img_card" style="width: 100%;">
+      <img src="/newsumm_2025/images/yulia.jpg" alt="Yulia Tsvetkov" class="img_card" style="width: 100%;">
       <div class="container">
-        <h2><a href="https://cs.stanford.edu/people/cgzhu/"><b>Chenguang Zhu</b></a></h2>
+        <h2><a href="https://homes.cs.washington.edu/~yuliats/"><b>Yulia Tsvetkov</b></a></h2>
         <p class="affiliation">Zoom</p>
       </div>
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) -->
+  <!-- Title and Abstract Column (Wider) 
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">Facing the Challenges and Opportunities of LLMs</h3>
@@ -129,6 +135,33 @@ With the rapid advancement of proprietary language models, the open research com
     </div>
   </div>
 </div>
+-->
+
+
+
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/newsumm_2025/images/marielle_lapata.jpg" alt="Mirella Lapata" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://homepages.inf.ed.ac.uk/mlap/"><b>Mirella Lapata</b></a></h2>
+        <p class="affiliation">Zoom</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) 
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Facing the Challenges and Opportunities of LLMs</h3>
+      <p class="abstract">Recent progress of LLMs has dramatically changed the research and business communities, and posed challenges to many NLP research areas such as summarization. However, the ultimate goal of any model is to perfectly solve specialized domain problems users care about, which is not achieved by existing LLMs as a generalist. In this talk, I will introduce how to face these challenges and adapt NLP research in the new LLM era. This includes: 1) Adapt and Improve, i.e., integrate traditional NLP and ML techniques with LLM to achieve better performance in various domains; 2) Leverage and Empower, i.e., stand on the shoulder of LLM to tackle complex problems. These measures can effectively guide a generalist LLM towards a specialist in domains of interest. 
+</p>
+    </div>
+  </div>
+</div>
+-->
 
 
 <!-- Call for Papers -->

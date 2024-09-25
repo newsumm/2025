@@ -137,7 +137,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/marielle_lapata.jpg" alt="Mirella Lapata" class="img_card" style="width: 100%;">
+      <img src="/newsumm_2025/images/marielle_lapata.jpeg" alt="Mirella Lapata" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://homepages.inf.ed.ac.uk/mlap/"><b>Mirella Lapata</b></a></h2>
         <p class="affiliation">Zoom</p>

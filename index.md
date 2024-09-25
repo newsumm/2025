@@ -189,62 +189,55 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
   
 </div>
 
-  
-  
-  
+
   
 
 
 
 
-<!-- PC 
+<!-- PC -->
 <h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
 <ul>
-<li>Manabu Okumura (Tokyo Institute of Technology)</li>
-<li>Ido Dagan (Bar-Ilan University)</li>
-<li>Ming Zhong (UIUC)</li>
-<li>Kristjan Arumae (Qualtrics)</li>
-<li>Pengcheng He (Microsoft Research)</li>
-<li>Naoaki Okazaki (Tokyo Institute of Technology)</li>
-<li>Zhe Hu (Baidu Inc)</li>
-<li>Wojciech Kryscinski (Salesforce Research)</li>
-<li>Haopeng Zhang (University of California Davis)</li>
-<li>Hou Pong Chan (University of Macau)</li>
-<li>Yang Liu (Microsoft)</li>
-<li>Kaiqiang Song (Tencent AI Lab)</li>
-<li>Juan-Manuel Torres-Moreno (LIA Avignon Université)</li>
-<li>Jing Jiang (Singapore Management University)</li>
-<li>Ziqiang Cao (Soochow University)</li>
-<li>Margot Mieskes (University of Applied Sciences, Darmstadt)</li>
-<li>Felice Dell'Orletta (Istituto di Linguistica Computazionale «A. Zampolli», CNR, Pisa, Italy)</li>
-<li>Xinnuo Xu (University of Edinburgh)</li>
-<li>Richard Evans (University of Wolverhampton)</li>
-<li>Esau Villatoro-Tello (Idiap Research Institute)</li>
-<li>Susana Bautista (Universidad Francisco de Vitoria)</li>
-<li>Tobias Falke (Amazon Alexa)</li>
-<li>Kellie Webster (Google)</li>
-<li>Giulia Venturi (Institute for Computational Linguistics "A. Zampolli" (ILC-CNR)</li>
-<li>Jessica Ouyang (University of Texas at Dallas)</li>
-<li>Wencan Luo (Google)</li>
-<li>Rui Zhang (Penn State University)</li>
-<li>Linzi Xing (University of British Columbia)</li>
-<li>Jiacheng Xu (Salesforce AI Research)</li>
-<li>Tadashi Nomoto (National Institute of Japanese Literature)</li>
-<li>Chao Zhao (UNC Chapel Hill)</li>
-<li>Ori Shapira (Amazon)</li>
-<li>Patrick Huber (UBC)</li>
-<li>Florian Boudin (Nantes Université)</li>
+<li>Shmuel Amar (Bar-Ilan University)</li>
+<li>Florian Boudin (JFLI, Nantes Université)</li>
+<li>Avi Caciularu (Google)</li>
+<li>Arie Cattan (Bar-Ilan University)</li>
+<li>Hou Pong Chan (Alibaba DAMO Academy)</li>
+<li>Khaoula Chehbouni (McGill University, Mila)</li>
+<li>Ziling Cheng (McGill University & Mila)</li>
+<li>Jackie Cheung (Mila / McGill)</li>
+<li>Maxime Darrin (Mistral AI)</li>
+<li>Felice Dell'Orletta (Istituto di Linguistica Computazionale “Antonio Zampolli” (CNR-ILC))</li>
+<li>Ron Eliav (Bar-Ilan University)</li>
+<li>Tobias Falke (Amazon AGI)</li>
+<li>Lorenzo Flores (MILA Quebec)</li>
+<li>Yu Fu (University of California, Riverside)</li>
+<li>Eran Hirsch (Bar-Ilan University)</li>
+<li>Zhe Hu (The Hong Kong Polytechnic University)</li>
 <li>Xinyu Hua (Bloomberg)</li>
-<li>Elena Lloret (University of Alicante, Spain)</li>
-<li>Alexander Fabbri (Salesforce AI Research)</li>
-<li>Tanya Goyal (UT Austin)</li>
-<li>Yuntian Deng (Harvard University)</li>
-<li>Maxime Peyrard (EPFL)</li>
-<li>Arpit Sood (Meta)</li>
-<li>Niyathi Allu (University of California, Riverside)</li>
-<li>Priyanshu Sharma (University of California, Riverside)</li> 
+<li>Patrick Huber (Meta)</li>
+<li>Hayate Iso (Megagon Labs)</li>
+<li>Ayal Klein (Bar Ilan University)</li>
+<li>Wojciech Kryscinski (Cohere)</li>
+<li>Elena Lloret (University of Alicante)</li>
+<li>Margot Mieskes (University of Applied Sciences, Darmstadt)</li>
+<li>Manabu Okumura (Tokyo Institute of Technology)</li>
+<li>Jessica Ouyang (UT Dallas)</li>
+<li>G M Shahariar (University of California, Riverside)</li>
+<li>Haz Sameen Shahgir (University of California Riverside)</li>
+<li>Ori Shapira (OriginAI)</li>
+<li>Aviv Slobodkin (Bar Ilan University )</li>
+<li>Cesare Spinoso (McGill )</li>
+<li>Esaú Villatoro Tello  (Idiap Research Institute, CH)</li>
+<li>David Wan (UNC Chapel Hill)</li>
+<li>Haohan Yuan (ALOHA Lab, University of Hawaii at Manoa)</li>
+<li>Yusen Zhang (Penn State University )</li>
+<li>Nan Zhang (The Pennsylvania State University)</li>
+<li>Shiyue Zhang (Bloomberg)</li>
+<li>Ming Zhong (UIUC)</li>
+<li>Xiyuan Zou (McGill / MILA)</li>
 </ul>
--->
+
 
 
 

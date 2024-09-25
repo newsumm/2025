@@ -34,15 +34,15 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) 
+  <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">Addressing Large Language Models that Lie: Case Studies in Summarization</h3>
-      <p class="abstract">The advent of large language models promises a new level of performance in the generation of text of all kinds, enabling the generation of text that is far more fluent, coherent, and relevant than was previously possible. However, they also introduce a major new problem: they hallucinate facts out of thin air. When summarizing an input document, they may incorrectly intermingle facts from the input, they may introduce facts that were not mentioned at all, and worse yet, they may even make up things that are not true in the real world. In this talk, I will discuss our work in characterizing the kinds of errors that can occur and methods that we have developed to help mitigate hallucination in language modeling approaches to text summarization for a variety of genres.</p>
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract">TBD</p>
     </div>
   </div>
 </div>
--->
+
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
@@ -56,16 +56,15 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider)
+   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">Open Problems in Automatic Summarization</h3>
-      <p class="abstract">Pre-trained language models have met and exceeded human-level performance on summarization benchmarks, often with the help of adaptation towards task-specific or human-elicited rewards. What does this mean for the field of automatic summarization? I argue that these results represent a milestone to be celebrated, but that they barely scratch the surface of the work ahead for summarization researchers. I discuss challenges that still remain largely unsolved and under-researched: how do we develop summarization systems that can perform more complex reasoning? How do we use this reasoning capability to aggregate and analyze information across vast amounts of text? What responsible AI issues matter in the deployment of summarization systems? And how do we evaluate for all of these desiderata? Progress on these open questions gives us the exciting prospect of summarization systems that are useful and beneficial in practice.</p>
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract">TBD</p>
     </div>
   </div>
 </div>
 
- -->
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
@@ -79,15 +78,14 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider)
+  <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">Are Large Language Models Fair Summarizers? </h3>
-      <p class="abstract">We live in a world of value pluralism where several values can be equally correct and fundamental, and yet in conflict with each other. Traditional summarization models are optimized for the prestige and centrality of important words and concepts but not for diversity and novelty, and thus when presented with diverse perspectives and conflicting opinions, they can display bias by ignoring certain parts of inputs. In this talk, I will present our initial efforts in investigating fair abstractive summarization by large language models that aims to generate a fair summary for user-generated data by providing an accurate and comprehensive view of various perspectives from different groups.</p>
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract">TBD</p>
     </div>
   </div>
 </div>
- -->
 
 
 <div class="row" style="display: flex;">
@@ -102,17 +100,14 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) 
+  <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">The Quest for Open Language Models</h3>
-      <p class="abstract">With the rapid progress of proprietary language models, the open research community is spending more effort to advance the state-of-the-art of open models. For that, AI2 started a project called OLMo, aiming to build and release an entirely in-house, truly open LLM. In this talk, I will tell you more about what AI2 is building for OLMo. I will discuss the DOLMA dataset and its toolkit. I will discuss our pretraining and modeling experience. Finally, I will talk about our efforts in language model adaptation, focusing on instruction tuning and RLHF efforts to train and evaluate the TULU models. 
-
-With the rapid advancement of proprietary language models, the open research community is increasingly focused on developing state-of-the-art open models. AI2 has initiated a project named OLMo, with the goal of creating and releasing a completely in-house, fully open LLM. In this presentation, I will delve into AI2's work on OLMo. I'll explore the DOLMA dataset and its associated toolkit, share insights from our pretraining and modeling experiences, and conclude by discussing our language model adaptation efforts. This will focus on instruction tuning and RLHF efforts used to train and evaluate the TULU models.</p>
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract">TBD</p>
     </div>
   </div>
 </div>
--->
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
@@ -126,16 +121,14 @@ With the rapid advancement of proprietary language models, the open research com
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) 
+   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">Facing the Challenges and Opportunities of LLMs</h3>
-      <p class="abstract">Recent progress of LLMs has dramatically changed the research and business communities, and posed challenges to many NLP research areas such as summarization. However, the ultimate goal of any model is to perfectly solve specialized domain problems users care about, which is not achieved by existing LLMs as a generalist. In this talk, I will introduce how to face these challenges and adapt NLP research in the new LLM era. This includes: 1) Adapt and Improve, i.e., integrate traditional NLP and ML techniques with LLM to achieve better performance in various domains; 2) Leverage and Empower, i.e., stand on the shoulder of LLM to tackle complex problems. These measures can effectively guide a generalist LLM towards a specialist in domains of interest. 
-</p>
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract">TBD</p>
     </div>
   </div>
 </div>
--->
 
 
 
@@ -152,16 +145,14 @@ With the rapid advancement of proprietary language models, the open research com
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) 
+   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">Facing the Challenges and Opportunities of LLMs</h3>
-      <p class="abstract">Recent progress of LLMs has dramatically changed the research and business communities, and posed challenges to many NLP research areas such as summarization. However, the ultimate goal of any model is to perfectly solve specialized domain problems users care about, which is not achieved by existing LLMs as a generalist. In this talk, I will introduce how to face these challenges and adapt NLP research in the new LLM era. This includes: 1) Adapt and Improve, i.e., integrate traditional NLP and ML techniques with LLM to achieve better performance in various domains; 2) Leverage and Empower, i.e., stand on the shoulder of LLM to tackle complex problems. These measures can effectively guide a generalist LLM towards a specialist in domains of interest. 
-</p>
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract">TBD</p>
     </div>
   </div>
 </div>
--->
 
 
 <!-- Call for Papers -->

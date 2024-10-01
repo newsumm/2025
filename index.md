@@ -157,7 +157,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/pengfei.png" alt="Pengfei Liu" class="img_card" style="width: 100%;">
+      <img src="/newsumm_2025/images/pengfei.jpg" alt="Pengfei Liu" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="http://www.qingyuan.sjtu.edu.cn/a/liu-peng-fei.html"><b>Pengfei Liu</b></a></h2>
         <p class="affiliation">Shanghai Jiao Tong University</p>

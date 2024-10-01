@@ -109,6 +109,27 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   </div>
 </div>
 
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/newsumm_2025/images/marielle_lapata.jpeg" alt="Mirella Lapata" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://homepages.inf.ed.ac.uk/mlap/"><b>Mirella Lapata</b></a></h2>
+        <p class="affiliation">The University of Edinburgh</p>
+      </div>
+    </div>
+  </div>
+  
+   <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract">TBD</p>
+    </div>
+  </div>
+</div>
+
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
@@ -178,26 +199,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
 
 
 
-<div class="row" style="display: flex;">
-  <!-- Speaker's Details Column (Narrower) -->
-  <div class="column left" style="flex: 1; max-width: 25%;">
-    <div class="card">
-      <img src="/newsumm_2025/images/marielle_lapata.jpeg" alt="Mirella Lapata" class="img_card" style="width: 100%;">
-      <div class="container">
-        <h2><a href="https://homepages.inf.ed.ac.uk/mlap/"><b>Mirella Lapata</b></a></h2>
-        <p class="affiliation">The University of Edinburgh</p>
-      </div>
-    </div>
-  </div>
-  
-   <!-- Title and Abstract Column (Wider) -->
-  <div class="column right" style="flex: 3; max-width: 75%;">
-    <div class="container">
-      <h3 class="talk_title">TBD</h3>
-      <p class="abstract">TBD</p>
-    </div>
-  </div>
-</div>
+
 
 
 <!-- Call for Papers -->

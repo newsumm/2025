@@ -109,6 +109,51 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   </div>
 </div>
 
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/newsumm_2025/images/jeyhan.jpg" alt="Jey Han Lau" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://jeyhan.my/"><b>Jey Han Lau</b></a></h2>
+        <p class="affiliation">The University of Melbourne</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract">TBD</p>
+    </div>
+  </div>
+</div>
+
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/newsumm_2025/images/pengfei.png" alt="Pengfei Liu" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="http://www.qingyuan.sjtu.edu.cn/a/liu-peng-fei.html"><b>Pengfei Liu</b></a></h2>
+        <p class="affiliation">Shanghai Jiao Tong University</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract">TBD</p>
+    </div>
+  </div>
+</div>
+
+
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">

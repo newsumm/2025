@@ -26,7 +26,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/mb2019.png" alt="Mohit Bansal" class="img_card" style="width: 100%;">
+      <img src="/2025/images/mb2019.png" alt="Mohit Bansal" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://www.cs.unc.edu/~mbansal/"><b>Mohit Bansal</b></a></h2>
         <p class="affiliation">University of North Carolina at Chapel Hill</p>
@@ -48,7 +48,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/arman.jpg" alt="Arman Cohan" class="img_card" style="width: 100%;">
+      <img src="/2025/images/arman.jpg" alt="Arman Cohan" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://armancohan.com/"><b>Arman Cohan</b></a></h2>
         <p class="affiliation">McGill University</p>
@@ -70,7 +70,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/greg.png" alt="Greg Durrett" class="img_card" style="width: 100%;">
+      <img src="/2025/images/greg.png" alt="Greg Durrett" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://www.cs.utexas.edu/~gdurrett/"><b>Greg Durrett</b></a></h2>
         <p class="affiliation">The University of Texas at Austin</p>
@@ -92,7 +92,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/fabbri.png" alt="Alexander R. Fabbri" class="img_card" style="width: 100%;">
+      <img src="/2025/images/fabbri.png" alt="Alexander R. Fabbri" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://alex-fabbri.github.io/"><b>Alexander R. Fabbri</b></a></h2>
         <p class="affiliation">Salesforce</p>
@@ -113,7 +113,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/marielle_lapata.jpeg" alt="Mirella Lapata" class="img_card" style="width: 100%;">
+      <img src="/2025/images/marielle_lapata.jpeg" alt="Mirella Lapata" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://homepages.inf.ed.ac.uk/mlap/"><b>Mirella Lapata</b></a></h2>
         <p class="affiliation">The University of Edinburgh</p>
@@ -135,7 +135,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/jeyhan.jpg" alt="Jey Han Lau" class="img_card" style="width: 100%;">
+      <img src="/2025/images/jeyhan.jpg" alt="Jey Han Lau" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://jeyhan.my/"><b>Jey Han Lau</b></a></h2>
         <p class="affiliation">The University of Melbourne</p>
@@ -157,7 +157,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/pengfei.jpg" alt="Pengfei Liu" class="img_card" style="width: 100%;">
+      <img src="/2025/images/pengfei.jpg" alt="Pengfei Liu" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="http://www.qingyuan.sjtu.edu.cn/a/liu-peng-fei.html"><b>Pengfei Liu</b></a></h2>
         <p class="affiliation">Shanghai Jiao Tong University</p>
@@ -179,7 +179,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/newsumm_2025/images/yulia.jpg" alt="Yulia Tsvetkov" class="img_card" style="width: 100%;">
+      <img src="/2025/images/yulia.jpg" alt="Yulia Tsvetkov" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://homes.cs.washington.edu/~yuliats/"><b>Yulia Tsvetkov</b></a></h2>
         <p class="affiliation">University of Washington</p>
@@ -273,7 +273,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 <div class="row">
 
  <div class="card column" >
-	  <img src="/newsumm_2025/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
+	  <img src="/2025/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -286,7 +286,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 	</div>
 
  <div class="card column" >
-	  <img src="/newsumm_2025/images/wen_xiao.jpg" alt="Wen Xiao" class="img_card">
+	  <img src="/2025/images/wen_xiao.jpg" alt="Wen Xiao" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -299,7 +299,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 	</div>
  
 <div class="card column" style="margin-left:0;">
-	  <img src="/newsumm_2025/images/haopeng_zhang.png" alt="Haopeng Zhang" class="img_card">
+	  <img src="/2025/images/haopeng_zhang.png" alt="Haopeng Zhang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -314,7 +314,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 
 <div class="row">
   <div class="card column" >
-  	  <img src="/newsumm_2025/images/rui_zhang_crop.jpeg" alt="Rui Zhang" class="img_card">
+  	  <img src="/2025/images/rui_zhang_crop.jpeg" alt="Rui Zhang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -328,7 +328,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
   
 
 <div class="card column">
-	  <img src="/newsumm_2025/images/Ori_Ernst_copy.jpg" alt="Ori Ernst" class="img_card">
+	  <img src="/2025/images/Ori_Ernst_copy.jpg" alt="Ori Ernst" class="img_card">
 	  <div class="container" >
 		<center>
 		<h4>
@@ -341,7 +341,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 	</div>
 
 <div class="card column" style="margin-left:0;">
-	  <img src="/newsumm_2025/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
+	  <img src="/2025/images/lu_wang.JPG" alt="Lu Wang" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
@@ -356,7 +356,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 
 <div class="row">
   <div class="card column" >
-  <img src="/newsumm_2025/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
+  <img src="/2025/images/fei_liu.JPG" alt="Fei Liu" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>

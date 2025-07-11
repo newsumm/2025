@@ -40,8 +40,8 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
-  </div>-->
-</div>
+  </div>
+</div>-->
 
 
 <div class="row" style="display: flex;">
@@ -62,8 +62,8 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
-  </div>-->
-</div>
+  </div>
+</div>-->
 
 
 <div class="row" style="display: flex;">
@@ -127,8 +127,8 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
-  </div>
-</div>-->
+  </div>-->
+</div>
 
 
 

@@ -130,6 +130,8 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   </div>
 </div>-->
 
+<br><br>
+
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->

@@ -34,14 +34,14 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) 
+  <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
   </div>
-</div>-->
+</div>
 
 
 <div class="row" style="display: flex;">
@@ -56,14 +56,14 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-   <!-- Title and Abstract Column (Wider) 
+   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
   </div>
-</div>-->
+</div>
 
 
 <div class="row" style="display: flex;">
@@ -78,14 +78,14 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) 
+  <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
   </div>
-</div>-->
+</div>
 
 
 <div class="row" style="display: flex;">
@@ -100,14 +100,14 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) 
+  <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
   </div>
-</div>-->
+</div>
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
@@ -121,13 +121,13 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-   <!-- Title and Abstract Column (Wider) 
+   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
-  </div>-->
+  </div>
 </div>
 
 
@@ -144,14 +144,14 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) 
+  <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
   </div>
-</div>-->
+</div>
 
 
 <div class="row" style="display: flex;">
@@ -166,14 +166,14 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) 
+  <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
   </div>
-</div>-->
+</div>
 
 
 <div class="row" style="display: flex;">
@@ -188,14 +188,14 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-   <!-- Title and Abstract Column (Wider) 
+   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
   </div>
-</div>-->
+</div>
 
 
 

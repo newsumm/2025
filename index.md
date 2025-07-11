@@ -34,14 +34,14 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
   
-  <!-- Title and Abstract Column (Wider) -->
+  <!-- Title and Abstract Column (Wider) 
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
   </div>
-</div>
+</div>-->
 
 
 <div class="row" style="display: flex;">
@@ -51,19 +51,19 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
       <img src="/2025/images/arman.jpg" alt="Arman Cohan" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://armancohan.com/"><b>Arman Cohan</b></a></h2>
-        <p class="affiliation">McGill University</p>
+        <p class="affiliation">Yale University</p>
       </div>
     </div>
   </div>
   
-   <!-- Title and Abstract Column (Wider) -->
+   <!-- Title and Abstract Column (Wider) 
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
       <h3 class="talk_title">TBD</h3>
       <p class="abstract">TBD</p>
     </div>
   </div>
-</div>
+</div>-->
 
 
 <div class="row" style="display: flex;">

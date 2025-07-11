@@ -228,6 +228,8 @@ A list of topics relevant to this workshop (but not limited to):
 - Development of new evaluation metrics
 - Hallucination reduction and trustworthiness in summarization
 - Efficiency in summarization and large model inference
+- Survey papers reviewing summarization methods, benchmarks, or evaluation techniques
+- Position papers presenting opinions, critiques, or perspectives on summarization research
 
 
 
@@ -256,15 +258,15 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 
 <h2 class="blackpar_title" id="Dates">Important Dates:</h2>
 
- - <strong>Sep. 1, 2025</strong>: Workshop Submission Due Date
+ - <strong>Aug. 15, 2025</strong>: Workshop Submission Due Date
 
- - <strong>Oct. 10, 2025</strong>: Fast-Track Submission and ARR Commitment Deadline 
+ - <strong>Aug. 22, 2025</strong>: Fast-Track Submission and ARR Commitment Deadline 
 
-- <strong>Oct. 17, 2025</strong>: Notification of Acceptance (Direct, ARR, and Fast-Track Notification)
+- <strong>Sep. 10, 2025</strong>: Notification of Acceptance (Direct, ARR, and Fast-Track Notification)
 
- - <strong>Oct. 24, 2025</strong>: Camera-ready Papers Due
+ - <strong>Sep. 14, 2025</strong>: Camera-ready Papers Due
 
- - <strong>Dec. 6, 2025</strong>: Workshop Date
+ - <strong>Nov. 9, 2025</strong>: Workshop Date
 
 
 

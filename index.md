@@ -237,7 +237,7 @@ A list of topics relevant to this workshop (but not limited to):
 
 
 <h2 class="blackpar_title" id="Submission">Submission Instructions</h2>
-You are invited to submit your papers in our <a href='https://www.softconf.com/emnlp2025/newsumm2025/'>START/SoftConf submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://aclrollingreview.org/authors'>ACL style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
+You are invited to submit your papers in our <a href='https://openreview.net/group?id=EMNLP/2025/Workshop/NewSumm'>OpenReview submission portal</a>. All the submitted papers have to be anonymous for double-blind review. The content of the paper should not be longer than 8 pages for long papers and 4 pages for short papers, strictly following the <a href='https://aclrollingreview.org/authors'>ACL style templates</a>, with the mandatory limitation section not counting towards the page limit. Supplementary and appendices (either as separate files or appended after the main submission) are allowed. We encourage code link submissions for the camera-ready version.
 
   <h3 class="sub_section_title"><strong>Dual Submission</strong></h3>
 

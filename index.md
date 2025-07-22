@@ -245,10 +245,8 @@ NewSumm 2025 will allow double submission as long as the authors make a decision
 
 
   <h3 class="sub_section_title"><strong>Fast-Track Submission</strong></h3>
-If your paper has been reviewed by ACL, EMNLP, EACL, or ARR and the average rating is higher than 2.5 (either avg soundness or excitement score), the paper is qualified to be submitted to the fast-track. In the appendix, please include the reviews and a short statement discussing what parts of the paper have been revised.
 
-
-ACL Rolling Review (ARR) Submissions: Our workshop also welcomes submissions from ARR. Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 10 October 2025. This should include submissions to ARR for the 15 August deadline. The decision of publication will be announced by 17 October 2025. The commitment should be done via the workshop submission website: <a href='https://www.softconf.com/emnlp2025/newsumm2025/'>START/SoftConf submission portal</a> ("ACL Rolling Review Commitment" submission type)
+ACL Rolling Review (ARR) Submissions: Our workshop also welcomes submissions from ARR. Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 22 August 2025. The decision of publication will be announced by 10 September 2025. The commitment should be done via the workshop submission website: <a href='https://openreview.net/group?id=EMNLP/2025/Workshop/NewSumm'>OpenReview submission portal</a> ("ACL Rolling Review Commitment" submission type)
 
 
 <h3 class="sub_section_title"><strong>Non-archival Option</strong></h3>

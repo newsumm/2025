@@ -246,7 +246,7 @@ NewSumm 2025 will allow double submission as long as the authors make a decision
 
   <h3 class="sub_section_title"><strong>Fast-Track Submission</strong></h3>
 
-ACL Rolling Review (ARR) Submissions: Our workshop also welcomes submissions from ARR. Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 22 August 2025. The decision of publication will be announced by 10 September 2025. The commitment should be done via the workshop submission website: <a href='https://openreview.net/group?id=EMNLP/2025/Workshop/NewSumm'>OpenReview submission portal</a> ("ACL Rolling Review Commitment" submission type)
+ACL Rolling Review (ARR) Submissions: Our workshop also welcomes submissions from ARR. Authors of any papers that are submitted to ARR and have their meta review ready may submit their papers and reviews for consideration for the workshop until 22 August 2025. The decision of publication will be announced by 10 September 2025. The commitment should be done via the workshop commitment submission website: <a href='https://openreview.net/group?id=EMNLP/2025/Workshop/NewSumm_ARR_Commitment'>OpenReview submission portal</a>
 
 
 <h3 class="sub_section_title"><strong>Non-archival Option</strong></h3>

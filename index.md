@@ -18,185 +18,73 @@ The Fifth Workshop on "New Frontiers in Summarization" aims to foster cross-fert
 To tackle these challenges, we plan to expand the workshop's scope beyond traditional summarization to include grounded text generation with retrieval, reference- and attribute-based summarization, multi-modal and long-form summarization, query-focused approaches, hallucination reduction, efficiency, and novel evaluation methods. This broader focus, particularly addressing the growing role of large language models (LLMs), is expected to attract wider engagement from the research community and push the boundaries of summarization research.
 
 
-<!-- Confirmed Spearkers -->
-<h2 class="blackpar_title" id="Confirmed Spearkers">Keynote Spearkers</h2>
 
 
-<div class="row" style="display: flex;">
-  <!-- Speaker's Details Column (Narrower) -->
-  <div class="column left" style="flex: 1; max-width: 25%;">
-    <div class="card">
-      <img src="/2025/images/mb2019.png" alt="Mohit Bansal" class="img_card" style="width: 100%;">
-      <div class="container">
-        <h2><a href="https://www.cs.unc.edu/~mbansal/"><b>Mohit Bansal</b></a></h2>
-        <p class="affiliation">University of North Carolina at Chapel Hill</p>
-      </div>
-    </div>
-  </div>
+
+
+<!-- Keynote Speakers: inline styles, no titles/abstracts -->
+<h2 class="blackpar_title" id="Keynote Speakers">Keynote Speakers</h2>
+
+<div style="display:flex;gap:1rem;overflow-x:auto;padding:0.5rem 0;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;">
   
-  <!-- Title and Abstract Column (Wider) -->
-  <div class="column right" style="flex: 3; max-width: 75%;">
-    <div class="container">
-      <h3 class="talk_title">TBD</h3>
-      <p class="abstract">TBD</p>
+  <!-- Mohit Bansal -->
+  <div style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;">
+    <img src="/2025/images/mb2019.png" alt="Mohit Bansal" style="width:100%;height:200px;object-fit:cover;display:block;">
+    <div style="padding:0.75rem 0.9rem 1rem;">
+      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
+        <a href="https://www.cs.unc.edu/~mbansal/" style="text-decoration:none;"><b>Mohit Bansal</b></a>
+      </h3>
+      <p style="color:#555;font-size:0.9rem;margin:0;">UNC Chapel Hill</p>
     </div>
   </div>
+
+  <!-- Arman Cohan -->
+  <div style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;">
+    <img src="/2025/images/arman.jpg" alt="Arman Cohan" style="width:100%;height:200px;object-fit:cover;display:block;">
+    <div style="padding:0.75rem 0.9rem 1rem;">
+      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
+        <a href="https://armancohan.com/" style="text-decoration:none;"><b>Arman Cohan</b></a>
+      </h3>
+      <p style="color:#555;font-size:0.9rem;margin:0;">Yale University</p>
+    </div>
+  </div>
+
+  <!-- Greg Durrett -->
+  <div style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;">
+    <img src="/2025/images/greg.png" alt="Greg Durrett" style="width:100%;height:200px;object-fit:cover;display:block;">
+    <div style="padding:0.75rem 0.9rem 1rem;">
+      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
+        <a href="https://www.cs.utexas.edu/~gdurrett/" style="text-decoration:none;"><b>Greg Durrett</b></a>
+      </h3>
+      <p style="color:#555;font-size:0.9rem;margin:0;">UT Austin</p>
+    </div>
+  </div>
+
+  <!-- Alexander R. Fabbri -->
+  <div style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;">
+    <img src="/2025/images/fabbri.png" alt="Alexander R. Fabbri" style="width:100%;height:200px;object-fit:cover;display:block;">
+    <div style="padding:0.75rem 0.9rem 1rem;">
+      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
+        <a href="https://alex-fabbri.github.io/" style="text-decoration:none;"><b>Alexander R. Fabbri</b></a>
+      </h3>
+      <p style="color:#555;font-size:0.9rem;margin:0;">Salesforce</p>
+    </div>
+  </div>
+
+  <!-- Mirella Lapata -->
+  <div style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;">
+    <img src="/2025/images/marielle_lapata.jpeg" alt="Mirella Lapata" style="width:100%;height:200px;object-fit:cover;display:block;">
+    <div style="padding:0.75rem 0.9rem 1rem;">
+      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
+        <a href="https://homepages.inf.ed.ac.uk/mlap/" style="text-decoration:none;"><b>Mirella Lapata</b></a>
+      </h3>
+      <p style="color:#555;font-size:0.9rem;margin:0;">University of Edinburgh</p>
+    </div>
+  </div>
+
+  <!-- add more speakers the same way... -->
+
 </div>
-
-
-<div class="row" style="display: flex;">
-  <!-- Speaker's Details Column (Narrower) -->
-  <div class="column left" style="flex: 1; max-width: 25%;">
-    <div class="card">
-      <img src="/2025/images/arman.jpg" alt="Arman Cohan" class="img_card" style="width: 100%;">
-      <div class="container">
-        <h2><a href="https://armancohan.com/"><b>Arman Cohan</b></a></h2>
-        <p class="affiliation">Yale University</p>
-      </div>
-    </div>
-  </div>
-  
-   <!-- Title and Abstract Column (Wider) -->
-  <div class="column right" style="flex: 3; max-width: 75%;">
-    <div class="container">
-      <h3 class="talk_title">TBD</h3>
-      <p class="abstract">TBD</p>
-    </div>
-  </div>
-</div>
-
-
-<div class="row" style="display: flex;">
-  <!-- Speaker's Details Column (Narrower) -->
-  <div class="column left" style="flex: 1; max-width: 25%;">
-    <div class="card">
-      <img src="/2025/images/greg.png" alt="Greg Durrett" class="img_card" style="width: 100%;">
-      <div class="container">
-        <h2><a href="https://www.cs.utexas.edu/~gdurrett/"><b>Greg Durrett</b></a></h2>
-        <p class="affiliation">The University of Texas at Austin</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Title and Abstract Column (Wider) -->
-  <div class="column right" style="flex: 3; max-width: 75%;">
-    <div class="container">
-      <h3 class="talk_title">TBD</h3>
-      <p class="abstract">TBD</p>
-    </div>
-  </div>
-</div>
-
-
-<div class="row" style="display: flex;">
-  <!-- Speaker's Details Column (Narrower) -->
-  <div class="column left" style="flex: 1; max-width: 25%;">
-    <div class="card">
-      <img src="/2025/images/fabbri.png" alt="Alexander R. Fabbri" class="img_card" style="width: 100%;">
-      <div class="container">
-        <h2><a href="https://alex-fabbri.github.io/"><b>Alexander R. Fabbri</b></a></h2>
-        <p class="affiliation">Salesforce</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Title and Abstract Column (Wider) -->
-  <div class="column right" style="flex: 3; max-width: 75%;">
-    <div class="container">
-      <h3 class="talk_title">TBD</h3>
-      <p class="abstract">TBD</p>
-    </div>
-  </div>
-</div>
-
-<div class="row" style="display: flex;">
-  <!-- Speaker's Details Column (Narrower) -->
-  <div class="column left" style="flex: 1; max-width: 25%;">
-    <div class="card">
-      <img src="/2025/images/marielle_lapata.jpeg" alt="Mirella Lapata" class="img_card" style="width: 100%;">
-      <div class="container">
-        <h2><a href="https://homepages.inf.ed.ac.uk/mlap/"><b>Mirella Lapata</b></a></h2>
-        <p class="affiliation">The University of Edinburgh</p>
-      </div>
-    </div>
-  </div>
-  
-   <!-- Title and Abstract Column (Wider) -->
-  <div class="column right" style="flex: 3; max-width: 75%;">
-    <div class="container">
-      <h3 class="talk_title">TBD</h3>
-      <p class="abstract">TBD</p>
-    </div>
-  </div>
-</div>
-
-
-
-<div class="row" style="display: flex;">
-  <!-- Speaker's Details Column (Narrower) -->
-  <div class="column left" style="flex: 1; max-width: 25%;">
-    <div class="card">
-      <img src="/2025/images/jeyhan.jpg" alt="Jey Han Lau" class="img_card" style="width: 100%;">
-      <div class="container">
-        <h2><a href="https://jeyhan.my/"><b>Jey Han Lau</b></a></h2>
-        <p class="affiliation">The University of Melbourne</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Title and Abstract Column (Wider) -->
-  <div class="column right" style="flex: 3; max-width: 75%;">
-    <div class="container">
-      <h3 class="talk_title">TBD</h3>
-      <p class="abstract">TBD</p>
-    </div>
-  </div>
-</div>
-
-
-<div class="row" style="display: flex;">
-  <!-- Speaker's Details Column (Narrower) -->
-  <div class="column left" style="flex: 1; max-width: 25%;">
-    <div class="card">
-      <img src="/2025/images/pengfei.jpg" alt="Pengfei Liu" class="img_card" style="width: 100%;">
-      <div class="container">
-        <h2><a href="http://www.qingyuan.sjtu.edu.cn/a/liu-peng-fei.html"><b>Pengfei Liu</b></a></h2>
-        <p class="affiliation">Shanghai Jiao Tong University</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Title and Abstract Column (Wider) -->
-  <div class="column right" style="flex: 3; max-width: 75%;">
-    <div class="container">
-      <h3 class="talk_title">TBD</h3>
-      <p class="abstract">TBD</p>
-    </div>
-  </div>
-</div>
-
-
-<div class="row" style="display: flex;">
-  <!-- Speaker's Details Column (Narrower) -->
-  <div class="column left" style="flex: 1; max-width: 25%;">
-    <div class="card">
-      <img src="/2025/images/yulia.jpg" alt="Yulia Tsvetkov" class="img_card" style="width: 100%;">
-      <div class="container">
-        <h2><a href="https://homes.cs.washington.edu/~yuliats/"><b>Yulia Tsvetkov</b></a></h2>
-        <p class="affiliation">University of Washington</p>
-      </div>
-    </div>
-  </div>
-  
-   <!-- Title and Abstract Column (Wider) -->
-  <div class="column right" style="flex: 3; max-width: 75%;">
-    <div class="container">
-      <h3 class="talk_title">TBD</h3>
-      <p class="abstract">TBD</p>
-    </div>
-  </div>
-</div>
-
 
 
 

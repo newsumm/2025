@@ -83,7 +83,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
       <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
         <a href="https://alex-fabbri.github.io/" style="text-decoration:none;"><b>Alexander R. Fabbri</b></a>
       </h3>
-      <p style="color:#555;font-size:0.9rem;margin:0;">Salesforce</p>
+      <p style="color:#555;font-size:0.9rem;margin:0;">Meta</p>
     </div>
   </div>
 

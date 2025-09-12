@@ -22,13 +22,17 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
 
 
 
-<!-- Keynote Speakers: inline styles, no titles/abstracts -->
+<!-- Keynote Speakers: inline styles, all 8 speakers + hover effect -->
 <h2 class="blackpar_title" id="Keynote Speakers">Keynote Speakers</h2>
 
 <div style="display:flex;gap:1rem;overflow-x:auto;padding:0.5rem 0;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;">
-  
+
   <!-- Mohit Bansal -->
-  <div style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;">
+  <div 
+    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
+    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
+    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
+  >
     <img src="/2025/images/mb2019.png" alt="Mohit Bansal" style="width:100%;height:200px;object-fit:cover;display:block;">
     <div style="padding:0.75rem 0.9rem 1rem;">
       <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
@@ -39,7 +43,11 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   </div>
 
   <!-- Arman Cohan -->
-  <div style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;">
+  <div 
+    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
+    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
+    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
+  >
     <img src="/2025/images/arman.jpg" alt="Arman Cohan" style="width:100%;height:200px;object-fit:cover;display:block;">
     <div style="padding:0.75rem 0.9rem 1rem;">
       <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
@@ -50,7 +58,11 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   </div>
 
   <!-- Greg Durrett -->
-  <div style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;">
+  <div 
+    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
+    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
+    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
+  >
     <img src="/2025/images/greg.png" alt="Greg Durrett" style="width:100%;height:200px;object-fit:cover;display:block;">
     <div style="padding:0.75rem 0.9rem 1rem;">
       <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
@@ -61,7 +73,11 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   </div>
 
   <!-- Alexander R. Fabbri -->
-  <div style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;">
+  <div 
+    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
+    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
+    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
+  >
     <img src="/2025/images/fabbri.png" alt="Alexander R. Fabbri" style="width:100%;height:200px;object-fit:cover;display:block;">
     <div style="padding:0.75rem 0.9rem 1rem;">
       <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
@@ -72,7 +88,11 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   </div>
 
   <!-- Mirella Lapata -->
-  <div style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;">
+  <div 
+    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
+    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
+    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
+  >
     <img src="/2025/images/marielle_lapata.jpeg" alt="Mirella Lapata" style="width:100%;height:200px;object-fit:cover;display:block;">
     <div style="padding:0.75rem 0.9rem 1rem;">
       <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
@@ -82,7 +102,50 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
   </div>
 
-  <!-- add more speakers the same way... -->
+  <!-- Jey Han Lau -->
+  <div 
+    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
+    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
+    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
+  >
+    <img src="/2025/images/jeyhan.jpg" alt="Jey Han Lau" style="width:100%;height:200px;object-fit:cover;display:block;">
+    <div style="padding:0.75rem 0.9rem 1rem;">
+      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
+        <a href="https://jeyhan.my/" style="text-decoration:none;"><b>Jey Han Lau</b></a>
+      </h3>
+      <p style="color:#555;font-size:0.9rem;margin:0;">University of Melbourne</p>
+    </div>
+  </div>
+
+  <!-- Pengfei Liu -->
+  <div 
+    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
+    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
+    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
+  >
+    <img src="/2025/images/pengfei.jpg" alt="Pengfei Liu" style="width:100%;height:200px;object-fit:cover;display:block;">
+    <div style="padding:0.75rem 0.9rem 1rem;">
+      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
+        <a href="http://www.qingyuan.sjtu.edu.cn/a/liu-peng-fei.html" style="text-decoration:none;"><b>Pengfei Liu</b></a>
+      </h3>
+      <p style="color:#555;font-size:0.9rem;margin:0;">Shanghai Jiao Tong University</p>
+    </div>
+  </div>
+
+  <!-- Yulia Tsvetkov -->
+  <div 
+    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
+    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
+    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
+  >
+    <img src="/2025/images/yulia.jpg" alt="Yulia Tsvetkov" style="width:100%;height:200px;object-fit:cover;display:block;">
+    <div style="padding:0.75rem 0.9rem 1rem;">
+      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
+        <a href="https://homes.cs.washington.edu/~yuliats/" style="text-decoration:none;"><b>Yulia Tsvetkov</b></a>
+      </h3>
+      <p style="color:#555;font-size:0.9rem;margin:0;">University of Washington</p>
+    </div>
+  </div>
 
 </div>
 

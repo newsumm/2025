@@ -220,6 +220,70 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 
 
 
+<!-- PC -->
+<h2 class="blackpar_title" id="Accepted Papers">Accepted Papers</h2>
+<ul>
+<li><strong>AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization</strong>
+</br>
+Mukur Gupta, Nikhil Reddy Varimalla, Nicholas Deas, Melanie Subbiah, Kathleen McKeown</li>
+	
+	<li><strong>Bridging Multimodal and Video Summarization: A Unified Survey</strong>
+</br>
+Haopeng Zhang</li>
+
+<li><strong>Multi2: Multi-Agent Test-Time Scalable Framework for Multi-Document Processing</strong>
+</br>
+Juntai Cao, Xiang Zhang, Raymond Li, Jiaqi Wei, Chuyuan Li, Shafiq Joty, Giuseppe Carenini</li>
+
+<li><strong>HalluTree: Explainable Multi-Hop Hallucination Detection for Abstractive Summarization</strong>
+</br>
+Daniel Orshansky, Oskar Oomen, Naaisha Agarwal, Ryan Lagasse</li>
+
+<li><strong>From Keyterms to Context: Exploring Topic Description Generation in Scientific Corpora</strong>
+</br>
+Pierre Achkar, Satiyabooshan Murugaboopathy, Anne Kreuter, Tim Gollub, Martin Potthast, Yuri Campbell</li>
+
+<li><strong>DACP: Domain-Adaptive Continual Pre-Training of Large Language Models for Phone Conversation Summarization</strong>
+</br>
+Xue-Yong Fu, Elena Khasanova, Md Tahmid Rahman Laskar, Harsh Saini, SHASHI BHUSHAN TN</li>
+
+<li><strong>REFER: Mitigating Bias in Opinion Summarisation via Frequency Framed Prompting</strong>
+</br>
+Nannan Huang, Haytham M. Fayek, Xiuzhen Zhang</li>
+
+<li><strong>Improving Aspect-Based Summarization via Contrastive Learning with Anchored Negative Examples</strong>
+</br>
+Elizabeth Palmieri, Yangfeng Ji</li>
+
+<li><strong>Beyond Paraphrasing: Analyzing Summarization Abstractiveness and Reasoning</strong>
+</br>
+Nathan Zeweniuk, Ori Ernst, Jackie CK Cheung</li>
+
+<li><strong>CS-Sum: A Benchmark for Code-Switching Dialogue Summarization and the Limits of Large Language Models</strong>
+</br>
+Sathya Krishnan Suresh, Tanmay Surana, Lim Zhi Hao, Eng Siong Chng</li>
+
+<li><strong>Hierarchical Attention Adapter for Abstractive Dialogue Summarization</strong>
+</br>
+Raymond Li, Chuyuan Li, Gabriel Murray, Giuseppe Carenini</li>
+
+<li><strong>LLM-as-a-Judge Failures at Automating the Identification of Poor Quality Outputs in Free-Form Texts</strong>
+</br>
+Zongxia Li, Xiyang Wu, Ishani Mondal, Alexa Siu, Jordan Lee Boyd-Graber, Ani Nenkova</li>
+
+<li><strong>QA-prompting: Improving Summarization with Large Language Models using Question-Answering</strong>
+</br>
+Neelabh Sinha</li>
+
+<li><strong>NSF-SciFy: Mining the NSF Awards Database for Scientific Claims</strong>
+</br>
+Delip Rao, Weiqiu You, Eric Wong, Chris Callison-Burch</li>
+
+
+</ul>
+
+
+
 <!-- Organizers -->
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row">

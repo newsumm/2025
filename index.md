@@ -216,7 +216,7 @@ ACL workshops are traditionally archival. To allow dual submission of work, we a
 
  - <strong>Sep. <del>14</del> 21, 2025</strong>: Camera-ready Papers Due
 
- - <strong>Nov. 9, 2025</strong>: Workshop Date
+ - <strong>Nov. 8, 2025</strong>: Workshop Date
 
 
 

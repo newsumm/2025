@@ -66,9 +66,9 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     <img src="/2025/images/greg.png" alt="Greg Durrett" style="width:100%;height:200px;object-fit:cover;display:block;">
     <div style="padding:0.75rem 0.9rem 1rem;">
       <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-        <a href="https://www.cs.utexas.edu/~gdurrett/" style="text-decoration:none;"><b>Greg Durrett</b></a>
+        <a href="https://gregdurrett.github.io/" style="text-decoration:none;"><b>Greg Durrett</b></a>
       </h3>
-      <p style="color:#555;font-size:0.9rem;margin:0;">UT Austin</p>
+      <p style="color:#555;font-size:0.9rem;margin:0;">New York University</p>
     </div>
   </div>
 
@@ -118,20 +118,6 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
   </div>
 
 
-  <!-- Yulia Tsvetkov -->
-  <div 
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-  >
-    <img src="/2025/images/yulia.jpg" alt="Yulia Tsvetkov" style="width:100%;height:200px;object-fit:cover;display:block;">
-    <div style="padding:0.75rem 0.9rem 1rem;">
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-        <a href="https://homes.cs.washington.edu/~yuliats/" style="text-decoration:none;"><b>Yulia Tsvetkov</b></a>
-      </h3>
-      <p style="color:#555;font-size:0.9rem;margin:0;">University of Washington</p>
-    </div>
-  </div>
 
 </div>
 

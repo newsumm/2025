@@ -40,7 +40,7 @@ Saturday, November 8, 2025
 | 12:30 - 14:00  | Lunch Break |
 | 14:00 - 15:30  | **Lightning Talks + Poster Session**<br>(In-person/Virtual: Gathertown)<br>(Workshop papers, <a href="/2023/files/NewSumm_lightning.pdf">Slides</a>) |
 | 15:30 - 16:00 | Coffee Break |
-| 16:00 - 16:45  | **Keynote III - Jey Han Lau** (University of Melbourne)**<br>*Ten Years of Abstractive Summarisation: A Whirlwind Tour and Future Directions* |
+| 16:00 - 16:45  | **Keynote III - Jey Han Lau (University of Melbourne)**<br>*Ten Years of Abstractive Summarisation: A Whirlwind Tour and Future Directions* |
 | 16:45 - 16:50 | Final Remarks |
 
 

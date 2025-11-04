@@ -83,24 +83,10 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
       <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
         <a href="https://alex-fabbri.github.io/" style="text-decoration:none;"><b>Alexander R. Fabbri</b></a>
       </h3>
-      <p style="color:#555;font-size:0.9rem;margin:0;">Meta</p>
+      <p style="color:#555;font-size:0.9rem;margin:0;"> Scale</p>
     </div>
   </div>
 
-  <!-- Mirella Lapata -->
-  <div 
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-  >
-    <img src="/2025/images/marielle_lapata.jpeg" alt="Mirella Lapata" style="width:100%;height:200px;object-fit:cover;display:block;">
-    <div style="padding:0.75rem 0.9rem 1rem;">
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-        <a href="https://homepages.inf.ed.ac.uk/mlap/" style="text-decoration:none;"><b>Mirella Lapata</b></a>
-      </h3>
-      <p style="color:#555;font-size:0.9rem;margin:0;">University of Edinburgh</p>
-    </div>
-  </div>
 
   <!-- Jey Han Lau -->
   <div 

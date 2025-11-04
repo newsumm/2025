@@ -48,7 +48,7 @@ Saturday, November 8, 2025
 
 
 <!-- Confirmed Spearkers -->
-<h2 class="blackpar_title" id="Confirmed Spearkers">Keynote Spearkers</h2>
+<h2 class="blackpar_title" id="Keynote Speakers">Keynote Speakers</h2>
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->

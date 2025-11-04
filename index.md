@@ -19,93 +19,162 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
 
 
 
+<!-- Schedule -->
+<h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
+Saturday, November 8, 2025
+
+<!--
+<a href="https://us06web.zoom.us/rec/play/zt3pM74bV1HUGag7gXo5fe7NBaL4uWEO7qtRAqapCbMPesNFcNsjZMU-YutduwehrXsh617z0VlIPzHI.7TQHvQNsFti1z6cZ?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Flak8O0xXHGBeVx2Ecf2rv6ACrRTWN6xGDOCLCrtWNBIXQ6TBvMtWe8oWKYClEZq8.EZ6w-2lgWj-jRcuS"><strong>Live Record of all Oral Sessions</strong></a>
+-->
 
 
 
-<!-- Keynote Speakers: inline styles, all 8 speakers + hover effect -->
-<h2 class="blackpar_title" id="Keynote Speakers">Keynote Speakers</h2>
+| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | Event & Details                                      |
+|---------------|---------------|------------------------------------------------------|
+| 08:50 - 09:00 | Opening Remarks |
+| 09:00 - 09:45 | **Keynote I - Mohit Bansal (UNC Chapel Hill)** <br>*TBD* |
+| 09:45 - 10:30  | **Keynote II - Greg Durrett (New York University)**<br>*TBD* |
+| 10:30 - 11:00  | Coffee Break |
+| 11:00 - 11:45  | **Keynote III - Arman Cohan (Yale University)**<br>*Evaluations of Non-Verifiable Tasks: From Scientific Literature Reviews to Meta-evaluation for General Alignment* |
+| 11:45 - 12:30   | **Keynote IV - Alexander R. Fabbri (Scale)**<br>*Summarization as an Evaluation Substrate: Grounding, Judges, and Multilinguality* |
+| 12:30 - 14:00  | Lunch Break |
+| 14:00 - 15:30  | **Lightning Talks + Poster Session**<br>(In-person/Virtual: Gathertown)<br>(Workshop papers, <a href="/2023/files/NewSumm_lightning.pdf">Slides</a>) |
+| 15:30 - 16:00 | Coffee Break |
+| 16:00 - 16:45  | **Keynote III - Jey Han Lau** (University of Melbourne)**<br>*Ten Years of Abstractive Summarisation: A Whirlwind Tour and Future Directions* |
+| 16:45 - 16:50 | Final Remarks |
 
-<div style="display:flex;gap:1rem;overflow-x:auto;padding:0.5rem 0;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;">
 
-  <!-- Mohit Bansal -->
-  <div 
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-  >
-    <img src="/2025/images/mb2019.png" alt="Mohit Bansal" style="width:100%;height:200px;object-fit:cover;display:block;">
-    <div style="padding:0.75rem 0.9rem 1rem;">
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-        <a href="https://www.cs.unc.edu/~mbansal/" style="text-decoration:none;"><b>Mohit Bansal</b></a>
-      </h3>
-      <p style="color:#555;font-size:0.9rem;margin:0;">UNC Chapel Hill</p>
+
+
+
+<!-- Confirmed Spearkers -->
+<h2 class="blackpar_title" id="Confirmed Spearkers">Keynote Spearkers</h2>
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/2025/images/mb2019.png" alt="Mohit Bansal" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://www.cs.unc.edu/~mbansal/"><b>Mohit Bansal</b></a></h2>
+        <p class="affiliation">UNC Chapel Hill</p>
+      </div>
     </div>
   </div>
-
-  <!-- Arman Cohan -->
-  <div 
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-  >
-    <img src="/2025/images/arman.jpg" alt="Arman Cohan" style="width:100%;height:200px;object-fit:cover;display:block;">
-    <div style="padding:0.75rem 0.9rem 1rem;">
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-        <a href="https://armancohan.com/" style="text-decoration:none;"><b>Arman Cohan</b></a>
-      </h3>
-      <p style="color:#555;font-size:0.9rem;margin:0;">Yale University</p>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract"> TBD</p>
     </div>
   </div>
-
-  <!-- Greg Durrett -->
-  <div 
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-  >
-    <img src="/2025/images/greg.png" alt="Greg Durrett" style="width:100%;height:200px;object-fit:cover;display:block;">
-    <div style="padding:0.75rem 0.9rem 1rem;">
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-        <a href="https://gregdurrett.github.io/" style="text-decoration:none;"><b>Greg Durrett</b></a>
-      </h3>
-      <p style="color:#555;font-size:0.9rem;margin:0;">New York University</p>
-    </div>
-  </div>
-
-  <!-- Alexander R. Fabbri -->
-  <div 
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-  >
-    <img src="/2025/images/fabbri.png" alt="Alexander R. Fabbri" style="width:100%;height:200px;object-fit:cover;display:block;">
-    <div style="padding:0.75rem 0.9rem 1rem;">
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-        <a href="https://alex-fabbri.github.io/" style="text-decoration:none;"><b>Alexander R. Fabbri</b></a>
-      </h3>
-      <p style="color:#555;font-size:0.9rem;margin:0;"> Scale</p>
-    </div>
-  </div>
-
-
-  <!-- Jey Han Lau -->
-  <div 
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-  >
-    <img src="/2025/images/jeyhan.jpg" alt="Jey Han Lau" style="width:100%;height:200px;object-fit:cover;display:block;">
-    <div style="padding:0.75rem 0.9rem 1rem;">
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-        <a href="https://jeyhan.my/" style="text-decoration:none;"><b>Jey Han Lau</b></a>
-      </h3>
-      <p style="color:#555;font-size:0.9rem;margin:0;">University of Melbourne</p>
-    </div>
-  </div>
-
-
-
 </div>
+
+
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/2025/images/arman.jpg" alt="Arman Cohan" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://armancohan.com/"><b>Arman Cohan</b></a></h2>
+        <p class="affiliation">Yale University</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Evaluations of Non-Verifiable Tasks: From Scientific Literature Reviews to Meta-evaluation for General Alignment</h3>
+      <p class="abstract"> In this talk, I will present two of our recent works on examining evaluation for non-verifiable tasks through human preferences on scientific literature tasks and evaluations of LLMs as judges.
+First, I will focus on scientific literature reviews as a form of a summarization tasks where we present SciArena, an open platform where researchers compare literature-grounded, long-form answers with citations. I will also discuss SciArena-Eval, a benchmark that tests models as evaluators of literature-based responses. Our findings suggest that even the strongest evaluators reach about 65 percent accuracy against expert judgments, which highlights the difficulty of automated assessment for literature review style generation.
+Next, I will discuss AlignEval, which studies when judging ability tracks alignment. The work measures generation–evaluation consistency and reports high rank correlation under strong oracle and curated instance settings, for example Spearman 0.97 on Arena-Hard. Combined with instruction-following checks, our approach correlates with human preference leaderboards at about 0.94 Spearman while reducing evaluation cost. 
+Our results provide practical guidance for evaluating literature review generation as a complex synthesis task and for auditing LLM judges used in alignment studies, including data curation, instance filtering, and risk of self-preference in evaluators.</p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/2025/images/greg.png" alt="Greg Durrett" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://gregdurrett.github.io/"><b>Greg Durrett</b></a></h2>
+        <p class="affiliation">New York University</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">TBD</h3>
+      <p class="abstract">TBD</p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/2025/images/fabbri.png" alt="Alexander R. Fabbri"  class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://alex-fabbri.github.io/"><b>Alexander R. Fabbri</b></a></h2>
+        <p class="affiliation"> Scale </p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Summarization as an Evaluation Substrate: Grounding, Judges, and Multilinguality</h3>
+      <p class="abstract">I will frame summarization as an evaluation substrate for modern LLMs rather than merely a generation task. I will begin with grounded summarization in citation-required settings and recent RAG grounding benchmarks to show why claims must be auditable and robust. I will then highlight what breaks in multi-turn interactions, motivating trajectory-aware evaluation. Next, I will examine LLM as judge reliability, synthesizing large-scale evidence on judge variance and offering practical judging protocols. Finally, I will discuss native multilingual robustness through a non-summarization task, showing that translation can mask errors, while native phenomena such as idioms and culturally anchored facts reveal them. I will close with actionable recommendations for robust summarization and evaluation and outline remaining challenges.</p>
+    </div>
+  </div>
+</div>
+
+<div class="row" style="display: flex;">
+  <!-- Speaker's Details Column (Narrower) -->
+  <div class="column left" style="flex: 1; max-width: 25%;">
+    <div class="card">
+      <img src="/2025/images/jeyhan.jpg" alt="Jey Han Lau" class="img_card" style="width: 100%;">
+      <div class="container">
+        <h2><a href="https://jeyhan.my/"><b>Jey Han Lau</b></a></h2>
+        <p class="affiliation">University of Melbourne</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Title and Abstract Column (Wider) -->
+  <div class="column right" style="flex: 3; max-width: 75%;">
+    <div class="container">
+      <h3 class="talk_title">Ten Years of Abstractive Summarisation: A Whirlwind Tour and Future Directions</h3>
+      <p class="abstract">In this talk, I’ll discuss the development of models and evaluation metrics for abstractive summarisation over the past decade, highlighting influential papers across different eras and interweaving some of our own contributions along the way. Each era has had a distinct focus - for example, early neural models focused on finding effective architectures; the pretrained model era on optimising training objectives; and the current LLM era on prompt engineering. I’ll also touch on summarisation evaluation, which, unlike modelling, hasn’t evolved as dramatically. I’ll conclude by sharing some reflections on the future of summarisation as a research field.
+</p>
+    </div>
+  </div>
+</div>
+
 
 
 

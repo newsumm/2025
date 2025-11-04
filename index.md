@@ -54,7 +54,7 @@ Saturday, November 8, 2025
   <!-- Speaker's Details Column (Narrower) -->
   <div class="column left" style="flex: 1; max-width: 25%;">
     <div class="card">
-      <img src="/2025/images/mb2019.png" alt="Mohit Bansal" class="img_card" style="width: 100%;">
+      <img src="/2025/images/mohitbansal2025.png" alt="Mohit Bansal" class="img_card" style="width: 100%;">
       <div class="container">
         <h2><a href="https://www.cs.unc.edu/~mbansal/"><b>Mohit Bansal</b></a></h2>
         <p class="affiliation">UNC Chapel Hill</p>

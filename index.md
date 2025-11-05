@@ -18,6 +18,73 @@ The Fifth Workshop on "New Frontiers in Summarization" aims to foster cross-fert
 To tackle these challenges, we plan to expand the workshop's scope beyond traditional summarization to include grounded text generation with retrieval, reference- and attribute-based summarization, multi-modal and long-form summarization, query-focused approaches, hallucination reduction, efficiency, and novel evaluation methods. This broader focus, particularly addressing the growing role of large language models (LLMs), is expected to attract wider engagement from the research community and push the boundaries of summarization research.
 
 
+<!-- Keynote Speakers: inline styles, all 8 speakers + hover effect -->
+
+<h2 class="blackpar_title" id="Keynote Speakers">Keynote Speakers</h2>
+
+
+
+<div style="display:flex;gap:1rem;overflow-x:auto;padding:0.5rem 0;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;">
+
+
+
+  <!-- Mohit Bansal -->
+
+  <div 
+
+    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
+
+    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
+
+    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
+
+  >
+
+    <img src="/2025/images/mb2019.png" alt="Mohit Bansal" style="width:100%;height:200px;object-fit:cover;display:block;">
+
+    <div style="padding:0.75rem 0.9rem 1rem;">
+
+      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
+
+        <a href="https://www.cs.unc.edu/~mbansal/" style="text-decoration:none;"><b>Mohit Bansal</b></a>
+
+      </h3>
+
+      <p style="color:#555;font-size:0.9rem;margin:0;">UNC Chapel Hill</p>
+
+    </div>
+
+  </div>
+
+
+
+  <!-- Arman Cohan -->
+
+  <div 
+
+    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
+
+    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
+
+    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
+
+  >
+
+    <img src="/2025/images/arman.jpg" alt="Arman Cohan" style="width:100%;height:200px;object-fit:cover;display:block;">
+
+    <div style="padding:0.75rem 0.9rem 1rem;">
+
+      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
+
+        <a href="https://armancohan.com/" style="text-decoration:none;"><b>Arman Cohan</b></a>
+
+      </h3>
+
+      <p style="color:#555;font-size:0.9rem;margin:0;">Yale University</p>
+
+    </div>
+
+  </div>
 
 <!-- Schedule -->
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>
@@ -48,7 +115,7 @@ Saturday, November 8, 2025
 
 
 <!-- Confirmed Spearkers -->
-<h2 class="blackpar_title" id="Keynote Speakers">Keynote Speakers</h2>
+<h2 class="blackpar_title" id="Keynote Talks">Keynote Talks</h2>
 
 <div class="row" style="display: flex;">
   <!-- Speaker's Details Column (Narrower) -->
@@ -65,7 +132,7 @@ Saturday, November 8, 2025
   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">Attributable, Conflict-Robust, and Multimodal Summarization with Multi-Source Retrieval</h3>
+      <h3 class="talk_title">*Attributable, Conflict-Robust, and Multimodal Summarization with Multi-Source Retrieval*</h3>
       <p class="abstract"> TBD</p>
     </div>
   </div>
@@ -88,7 +155,7 @@ Saturday, November 8, 2025
   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">Evaluations of Non-Verifiable Tasks: From Scientific Literature Reviews to Meta-evaluation for General Alignment</h3>
+      <h3 class="talk_title">*Evaluations of Non-Verifiable Tasks: From Scientific Literature Reviews to Meta-evaluation for General Alignment*</h3>
       <p class="abstract"> In this talk, I will present two of our recent works on examining evaluation for non-verifiable tasks through human preferences on scientific literature tasks and evaluations of LLMs as judges.
 First, I will focus on scientific literature reviews as a form of a summarization tasks where we present SciArena, an open platform where researchers compare literature-grounded, long-form answers with citations. I will also discuss SciArena-Eval, a benchmark that tests models as evaluators of literature-based responses. Our findings suggest that even the strongest evaluators reach about 65 percent accuracy against expert judgments, which highlights the difficulty of automated assessment for literature review style generation.
 Next, I will discuss AlignEval, which studies when judging ability tracks alignment. The work measures generation–evaluation consistency and reports high rank correlation under strong oracle and curated instance settings, for example Spearman 0.97 on Arena-Hard. Combined with instruction-following checks, our approach correlates with human preference leaderboards at about 0.94 Spearman while reducing evaluation cost. 
@@ -119,7 +186,7 @@ Our results provide practical guidance for evaluating literature review generati
   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">Specializing LLMs for Reliability</h3>
+      <h3 class="talk_title">*Specializing LLMs for Reliability*</h3>
       <p class="abstract"> Large language models (LLMs) generally employ capabilities long sought from summarization systems: they can synthesize information from multiple sources, derive new conclusions, and explain those conclusions to their users. However, LLMs do not always do this reliably. They hallucinate facts, convincingly state incorrect deductions, and exhibit logical fallacies like confirmation bias. In this talk, I will describe my lab's work on making LLM systems reliable by carefully evaluating their outputs in a fine-grained way. First, I will describe the ingredients of effective automated evaluators and a state-of-the-art factuality evaluation system, MiniCheck, showing that analyzing the nature of hallucinations can help reduce them. Second, I will describe how to evaluate LLM responses according to a broader set of criteria. Our system, EvalAgent, retrieves instructional documents from the web describing how to perform writing tasks, illuminating dimensions of evaluation that we as system developers may not have even been aware of. Together, these approaches provide a method for building more reliable LLM systems for open-ended writing tasks.
 </p>
     </div>
@@ -148,7 +215,7 @@ Our results provide practical guidance for evaluating literature review generati
   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">Summarization as an Evaluation Substrate: Grounding, Judges, and Multilinguality</h3>
+      <h3 class="talk_title">*Summarization as an Evaluation Substrate: Grounding, Judges, and Multilinguality*</h3>
       <p class="abstract">I will frame summarization as an evaluation substrate for modern LLMs rather than merely a generation task. I will begin with grounded summarization in citation-required settings and recent RAG grounding benchmarks to show why claims must be auditable and robust. I will then highlight what breaks in multi-turn interactions, motivating trajectory-aware evaluation. Next, I will examine LLM as judge reliability, synthesizing large-scale evidence on judge variance and offering practical judging protocols. Finally, I will discuss native multilingual robustness through a non-summarization task, showing that translation can mask errors, while native phenomena such as idioms and culturally anchored facts reveal them. I will close with actionable recommendations for robust summarization and evaluation and outline remaining challenges.</p>
     </div>
   </div>
@@ -169,7 +236,7 @@ Our results provide practical guidance for evaluating literature review generati
   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">Ten Years of Abstractive Summarisation: A Whirlwind Tour and Future Directions</h3>
+      <h3 class="talk_title">*Ten Years of Abstractive Summarisation: A Whirlwind Tour and Future Directions*</h3>
       <p class="abstract">In this talk, I’ll discuss the development of models and evaluation metrics for abstractive summarisation over the past decade, highlighting influential papers across different eras and interweaving some of our own contributions along the way. Each era has had a distinct focus - for example, early neural models focused on finding effective architectures; the pretrained model era on optimising training objectives; and the current LLM era on prompt engineering. I’ll also touch on summarisation evaluation, which, unlike modelling, hasn’t evolved as dramatically. I’ll conclude by sharing some reflections on the future of summarisation as a research field.
 </p>
     </div>

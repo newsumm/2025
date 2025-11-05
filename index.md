@@ -18,172 +18,88 @@ The Fifth Workshop on "New Frontiers in Summarization" aims to foster cross-fert
 To tackle these challenges, we plan to expand the workshop's scope beyond traditional summarization to include grounded text generation with retrieval, reference- and attribute-based summarization, multi-modal and long-form summarization, query-focused approaches, hallucination reduction, efficiency, and novel evaluation methods. This broader focus, particularly addressing the growing role of large language models (LLMs), is expected to attract wider engagement from the research community and push the boundaries of summarization research.
 
 
-<!-- Keynote Speakers: inline styles, all 8 speakers + hover effect -->
-
 <h2 class="blackpar_title" id="Keynote Speakers">Keynote Speakers</h2>
 
-
-
-<div style="display:flex;gap:1rem;overflow-x:auto;padding:0.5rem 0;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;">
-
-
-
-  <!-- Mohit Bansal -->
-
-  <div 
-
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-
-  >
-
-    <img src="/2025/images/mohitbansal2025.png" alt="Mohit Bansal" style="width:100%;height:200px;object-fit:cover;display:block;">
-
-    <div style="padding:0.75rem 0.9rem 1rem;">
-
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-
-        <a href="https://www.cs.unc.edu/~mbansal/" style="text-decoration:none;"><b>Mohit Bansal</b></a>
-
-      </h3>
-
-      <p style="color:#555;font-size:0.9rem;margin:0;">UNC Chapel Hill</p>
-
-    </div>
-
-  </div>
-
-
-
-  <!-- Arman Cohan -->
-
-  <div 
-
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-
-  >
-
-    <img src="/2025/images/arman.jpg" alt="Arman Cohan" style="width:100%;height:200px;object-fit:cover;display:block;">
-
-    <div style="padding:0.75rem 0.9rem 1rem;">
-
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-
-        <a href="https://armancohan.com/" style="text-decoration:none;"><b>Arman Cohan</b></a>
-
-      </h3>
-
-      <p style="color:#555;font-size:0.9rem;margin:0;">Yale University</p>
-
-    </div>
-
-  </div>
-
-
-
-  <!-- Greg Durrett -->
-
-  <div 
-
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-
-  >
-
-    <img src="/2025/images/greg.png" alt="Greg Durrett" style="width:100%;height:200px;object-fit:cover;display:block;">
-
-    <div style="padding:0.75rem 0.9rem 1rem;">
-
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-
-        <a href="https://gregdurrett.github.io/" style="text-decoration:none;"><b>Greg Durrett</b></a>
-
-      </h3>
-
-      <p style="color:#555;font-size:0.9rem;margin:0;">New York University</p>
-
-    </div>
-
-  </div>
-
-
-
-  <!-- Alexander R. Fabbri -->
-
-  <div 
-
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-
-  >
-
-    <img src="/2025/images/fabbri.png" alt="Alexander R. Fabbri" style="width:100%;height:200px;object-fit:cover;display:block;">
-
-    <div style="padding:0.75rem 0.9rem 1rem;">
-
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-
-        <a href="https://alex-fabbri.github.io/" style="text-decoration:none;"><b>Alexander R. Fabbri</b></a>
-
-      </h3>
-
-      <p style="color:#555;font-size:0.9rem;margin:0;"> Scale</p>
-
-    </div>
-
-  </div>
-
-
-
-
-
-  <!-- Jey Han Lau -->
-
-  <div 
-
-    style="flex:0 0 auto;width:220px;scroll-snap-align:start;border-radius:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.08);background:#fff;overflow:hidden;border:1px solid rgba(0,0,0,0.06);text-align:center;transition:all 0.25s ease;" 
-
-    onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 12px 24px rgba(0,0,0,0.18)';" 
-
-    onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.08)';"
-
-  >
-
-    <img src="/2025/images/jeyhan.jpg" alt="Jey Han Lau" style="width:100%;height:200px;object-fit:cover;display:block;">
-
-    <div style="padding:0.75rem 0.9rem 1rem;">
-
-      <h3 style="font-size:1rem;margin:0.25rem 0 0.35rem;line-height:1.2;">
-
-        <a href="https://jeyhan.my/" style="text-decoration:none;"><b>Jey Han Lau</b></a>
-
-      </h3>
-
-      <p style="color:#555;font-size:0.9rem;margin:0;">University of Melbourne</p>
-
-    </div>
-
-  </div>
-
-
-
-
-
-
-
+<div class="row">
+    <div class="card column" >
+	  <img src="/2025/images/mohitbansal2025.png" alt="Mohit Bansal" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://www.cs.unc.edu/~mbansal/"><b>Mohit Bansal</b></a>
+			<br>
+			UNC Chapel Hill
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+    <div class="card column" >
+	  <img src="/2025/images/arman.jpg" alt="Arman Cohan" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+      <a href="https://armancohan.com/"><b>Arman Cohan</b></a>
+			<br>
+			Yale University
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+    <div class="card column" style="margin-left:0;">
+	  <img src="/2025/images/greg.png" alt="Greg Durrett" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<a href="https://gregdurrett.github.io/"><b>Greg Durrett</b></a>
+			<br>
+			New York University
+		</h4>
+		</center>
+	  </div>
+	</div>
+</div>
+
+<div class="row">
+    <div class="card column" >
+  	  <img src="/2025/images/fabbri.png" alt="Alexander R. Fabbri" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			<a href="https://alex-fabbri.github.io/"><b>Alexander R. Fabbri</b></a>
+			<br>
+			Scale
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+    <div class="card column">
+	  <img src="/2025/images/jeyhan.jpg" alt="Jey Han Lau" class="img_card">
+	  <div class="container" >
+		<center>
+		<h4>
+			<a href="https://jeyhan.my/"><b>Jey Han Lau</b></a>
+			<br>
+			University of Melbourne
+		</h4>
+		</center>
+	  </div>
+	</div>
+
+    <div class="card column" style="visibility: hidden; margin-left:0;">
+		<img src="/2025/images/placeholder.png" alt="" class="img_card">
+	  <div class="container">
+		<center>
+		<h4>
+			&nbsp;
+			<br>
+			&nbsp;
+		</h4>
+		</center>
+	  </div>
+	</div>
 </div>
 
 <!-- Schedule -->

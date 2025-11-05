@@ -32,8 +32,8 @@ Saturday, November 8, 2025
 | Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | Event & Details                                      |
 |---------------|---------------|------------------------------------------------------|
 | 08:50 - 09:00 | Opening Remarks |
-| 09:00 - 09:45 | **Keynote I - Mohit Bansal (UNC Chapel Hill)** <br>*TBD* |
-| 09:45 - 10:30  | **Keynote II - Greg Durrett (New York University)**<br>*TBD* |
+| 09:00 - 09:45 | **Keynote I - Mohit Bansal (UNC Chapel Hill)** <br>*Attributable, Conflict-Robust, and Multimodal Summarization with Multi-Source Retrieval* |
+| 09:45 - 10:30  | **Keynote II - Greg Durrett (New York University)**<br>*Specializing LLMs for Reliability* |
 | 10:30 - 11:00  | Coffee Break |
 | 11:00 - 11:45  | **Keynote III - Arman Cohan (Yale University)**<br>*Evaluations of Non-Verifiable Tasks: From Scientific Literature Reviews to Meta-evaluation for General Alignment* |
 | 11:45 - 12:30   | **Keynote IV - Alexander R. Fabbri (Scale)**<br>*Summarization as an Evaluation Substrate: Grounding, Judges, and Multilinguality* |
@@ -65,7 +65,7 @@ Saturday, November 8, 2025
   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">TBD</h3>
+      <h3 class="talk_title">Attributable, Conflict-Robust, and Multimodal Summarization with Multi-Source Retrieval</h3>
       <p class="abstract"> TBD</p>
     </div>
   </div>
@@ -119,8 +119,9 @@ Our results provide practical guidance for evaluating literature review generati
   <!-- Title and Abstract Column (Wider) -->
   <div class="column right" style="flex: 3; max-width: 75%;">
     <div class="container">
-      <h3 class="talk_title">TBD</h3>
-      <p class="abstract">TBD</p>
+      <h3 class="talk_title">Specializing LLMs for Reliability</h3>
+      <p class="abstract"> Large language models (LLMs) generally employ capabilities long sought from summarization systems: they can synthesize information from multiple sources, derive new conclusions, and explain those conclusions to their users. However, LLMs do not always do this reliably. They hallucinate facts, convincingly state incorrect deductions, and exhibit logical fallacies like confirmation bias. In this talk, I will describe my lab's work on making LLM systems reliable by carefully evaluating their outputs in a fine-grained way. First, I will describe the ingredients of effective automated evaluators and a state-of-the-art factuality evaluation system, MiniCheck, showing that analyzing the nature of hallucinations can help reduce them. Second, I will describe how to evaluate LLM responses according to a broader set of criteria. Our system, EvalAgent, retrieves instructional documents from the web describing how to perform writing tasks, illuminating dimensions of evaluation that we as system developers may not have even been aware of. Together, these approaches provide a method for building more reliable LLM systems for open-ended writing tasks.
+</p>
     </div>
   </div>
 </div>

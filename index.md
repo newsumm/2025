@@ -40,7 +40,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
 
   >
 
-    <img src="/2025/images/mb2019.png" alt="Mohit Bansal" style="width:100%;height:200px;object-fit:cover;display:block;">
+    <img src="/2025/images/mohitbansal2025.png" alt="Mohit Bansal" style="width:100%;height:200px;object-fit:cover;display:block;">
 
     <div style="padding:0.75rem 0.9rem 1rem;">
 

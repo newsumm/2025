@@ -19,6 +19,57 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
 
 
 <h2 class="blackpar_title" id="Keynote Speakers">Keynote Speakers</h2>
+<style>
+  /* Define styles for the image within the card */
+  .card .img_card {
+    width: 100%;
+    height: 200px; /* Set a fixed height for all images */
+    object-fit: cover; /* Ensures images cover the area without distortion, cropping as needed */
+    object-position: center top; /* Adjust if faces are cut off, try 'center' or 'top' */
+    display: block; /* Removes extra space below the image */
+  }
+  /* Your existing card and column styles would go here or in a separate CSS file */
+  .row {
+    display: flex;
+    flex-wrap: wrap; /* Allows cards to wrap to the next line */
+    gap: 1rem; /* Space between cards */
+    margin-bottom: 1rem; /* Space between rows */
+    justify-content: center; /* Center cards if not filling the whole row */
+  }
+
+  .card.column {
+    flex: 0 0 auto; /* Prevent stretching */
+    width: 280px; /* Adjust card width as needed */
+    border-radius: 1rem;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+    background:#fff;
+    overflow:hidden;
+    border:1px solid rgba(0,0,0,0.06);
+    text-align:center;
+    transition:all 0.25s ease;
+    padding: 0; /* Remove padding that might affect image size */
+  }
+  .card.column .container {
+    padding: 0.75rem 0.9rem 1rem;
+  }
+  /* Hover effects (copied from your original horizontal list) */
+  .card.column:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.18);
+  }
+  .card.column h4 {
+    font-size: 1rem;
+    margin: 0.25rem 0 0.35rem;
+    line-height: 1.2;
+  }
+  .card.column h4 a {
+    text-decoration: none;
+  }
+  .card.column h4 br {
+    display: block; /* Ensure line break for affiliation */
+    margin-bottom: 0.25rem;
+  }
+</style>
 
 <div class="row">
     <div class="card column" >

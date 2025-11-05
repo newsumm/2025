@@ -85,6 +85,7 @@ To tackle these challenges, we plan to expand the workshop's scope beyond tradit
     </div>
 
   </div>
+  </div>
 
 <!-- Schedule -->
 <h2 class="blackpar_title" id="Schedule"><b>Schedule</b></h2>

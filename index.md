@@ -481,7 +481,7 @@ Delip Rao, Weiqiu You, Eric Wong, Chris Callison-Burch</li>
 	  <div class="container">
 		<center>
 		<h4>
-			<a href="https://web.eecs.umich.edu/~wangluxy/"><b>Wang Lu</b></a>
+			<a href="https://web.eecs.umich.edu/~wangluxy/"><b>Lu Wang</b></a>
 			<br>
 			University of Michigan, USA
 		</h4>
